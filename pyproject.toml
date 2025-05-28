@@ -8,6 +8,7 @@ dependencies = [
     "crewai-tools>=0.36.0",
     "crewai>=0.100.1",
     "python-dotenv>=1.0.1",
+    "mysql-connector-python>=8.0",
     "elevenlabs>=1.51.0",
     "whisper-openai>=1.0.0",
     "evolutionapi>=0.0.9",
