@@ -1,0 +1,1001 @@
+﻿Data da Venda,ID da Venda,ID do Cliente,Nome do Cliente,Produto,ID do Produto,Categoria,Preço Unitário,Quantidade,Valor Total,Meio de Pagamento,Vendedor,Região,Status da Venda
+05/09/2024,0001,754,Antônio Freitas,Laptop ABC,2002,Eletrônicos,3500.0,1,3500.0,Pix,Enzo Gabriel Cunha,Nordeste,Concluída
+13/10/2024,0002,242,Renan Viana,Laptop ABC,2002,Eletrônicos,3500.0,5,17500.0,Cartão,Nicolas Pereira,Sul,Cancelada
+13/01/2024,0003,132,Bryan da Rosa,Smartphone XYZ,2001,Eletrônicos,1200.0,1,1200.0,Dinheiro,Luiz Fernando Araújo,Nordeste,Pendente
+05/08/2024,0004,716,Theo Viana,Smartphone XYZ,2001,Eletrônicos,1200.0,5,6000.0,Dinheiro,Clarice Porto,Sul,Cancelada
+16/08/2024,0005,325,Alexandre da Cruz,Impressora Laser,2008,Eletrônicos,2000.0,5,10000.0,Pix,Sra. Heloísa Freitas,Norte,Concluída
+01/03/2024,0006,814,Vitor Hugo Mendes,Monitor HD,2007,Eletrônicos,1000.0,3,3000.0,Pix,Bryan Nascimento,Nordeste,Concluída
+07/02/2024,0007,881,Dr. Otávio Ferreira,Fone Bluetooth,2006,Acessórios,250.0,1,250.0,Cartão,Thomas Ramos,Sudeste,Concluída
+27/07/2024,0008,467,João Miguel Cardoso,Fone Bluetooth,2006,Acessórios,250.0,5,1250.0,Pix,Evelyn Moreira,Norte,Pendente
+12/08/2024,0009,570,Thales Campos,Laptop ABC,2002,Eletrônicos,3500.0,4,14000.0,Cartão,Rafael Dias,Sul,Cancelada
+27/10/2024,0010,949,Bruno Dias,Fone Bluetooth,2006,Acessórios,250.0,5,1250.0,Dinheiro,João Miguel Freitas,Norte,Concluída
+25/06/2024,0011,777,Isabelly da Cruz,Smartwatch DEF,2004,Eletrônicos,800.0,3,2400.0,Cartão,Dr. Emanuel Fogaça,Nordeste,Concluída
+29/09/2024,0012,489,Melissa Cardoso,Teclado RGB,2005,Acessórios,300.0,4,1200.0,Pix,Maysa da Cunha,Nordeste,Cancelada
+26/07/2024,0013,463,Srta. Bruna Rezende,Smartwatch DEF,2004,Eletrônicos,800.0,3,2400.0,Cartão,Emanuelly das Neves,Sul,Pendente
+22/09/2024,0014,275,Sr. Enzo Azevedo,Smartwatch DEF,2004,Eletrônicos,800.0,2,1600.0,Transferência,Dr. Gabriel Campos,Sudeste,Cancelada
+22/03/2024,0015,755,Raquel Lopes,Smartwatch DEF,2004,Eletrônicos,800.0,3,2400.0,Cartão,Pietro Sales,Nordeste,Concluída
+02/06/2024,0016,924,Laís da Conceição,Fone Bluetooth,2006,Acessórios,250.0,4,1000.0,Pix,Daniel Farias,Norte,Concluída
+16/10/2024,0017,680,Maria Alice Ferreira,Fone Bluetooth,2006,Acessórios,250.0,2,500.0,Transferência,Dra. Lara Nunes,Sudeste,Pendente
+20/05/2024,0018,569,Daniel Silva,Mouse Wireless,2003,Acessórios,150.0,3,450.0,Dinheiro,Ana Laura Barros,Nordeste,Pendente
+12/02/2024,0019,674,Pedro Lucas da Cruz,Teclado RGB,2005,Acessórios,300.0,5,1500.0,Transferência,Lara Campos,Sul,Cancelada
+29/05/2024,0020,470,Maria Vitória Rezende,Smartwatch DEF,2004,Eletrônicos,800.0,2,1600.0,Transferência,Eloah Vieira,Norte,Concluída
+05/01/2024,0021,981,Rebeca Correia,Laptop ABC,2002,Eletrônicos,3500.0,2,7000.0,Dinheiro,Maria Alice Fogaça,Sudeste,Pendente
+25/10/2024,0022,165,Heloísa Correia,Monitor HD,2007,Eletrônicos,1000.0,4,4000.0,Transferência,Leandro da Cruz,Sul,Cancelada
+25/06/2024,0023,666,Thiago Ferreira,Smartphone XYZ,2001,Eletrônicos,1200.0,1,1200.0,Pix,Sophie da Luz,Centro-Oeste,Concluída
+16/07/2024,0024,400,Pedro Lucas Jesus,Monitor HD,2007,Eletrônicos,1000.0,2,2000.0,Transferência,Lívia da Paz,Norte,Pendente
+29/02/2024,0025,996,Sr. Marcelo Souza,Teclado RGB,2005,Acessórios,300.0,5,1500.0,Dinheiro,Noah Martins,Sul,Concluída
+08/07/2024,0026,991,Carlos Eduardo Moreira,Teclado RGB,2005,Acessórios,300.0,5,1500.0,Dinheiro,Erick Caldeira,Nordeste,Cancelada
+03/04/2024,0027,880,Ana Júlia Cardoso,Mouse Wireless,2003,Acessórios,150.0,5,750.0,Cartão,Sra. Ana Clara Teixeira,Sul,Cancelada
+24/10/2024,0028,600,Cauê Ribeiro,Smartphone XYZ,2001,Eletrônicos,1200.0,1,1200.0,Pix,Bárbara Ferreira,Centro-Oeste,Concluída
+23/07/2024,0029,159,Lara da Rosa,Smartwatch DEF,2004,Eletrônicos,800.0,5,4000.0,Cartão,Sophia da Paz,Norte,Pendente
+03/10/2024,0030,597,João Moura,Laptop ABC,2002,Eletrônicos,3500.0,5,17500.0,Dinheiro,Manuela Porto,Nordeste,Pendente
+16/02/2024,0031,586,Enzo Gabriel Campos,Mouse Wireless,2003,Acessórios,150.0,3,450.0,Transferência,Sr. Nicolas Vieira,Nordeste,Pendente
+30/03/2024,0032,873,Clarice Almeida,Smartwatch DEF,2004,Eletrônicos,800.0,3,2400.0,Transferência,Thales Caldeira,Centro-Oeste,Cancelada
+29/03/2024,0033,629,Arthur Melo,Impressora Laser,2008,Eletrônicos,2000.0,1,2000.0,Dinheiro,Luiz Gustavo Duarte,Nordeste,Concluída
+18/04/2024,0034,446,Luiza da Rosa,Smartphone XYZ,2001,Eletrônicos,1200.0,5,6000.0,Dinheiro,Ana Ribeiro,Sul,Concluída
+04/04/2024,0035,107,Júlia da Mota,Laptop ABC,2002,Eletrônicos,3500.0,1,3500.0,Dinheiro,Caio Pinto,Norte,Concluída
+17/05/2024,0036,980,Júlia Rezende,Fone Bluetooth,2006,Acessórios,250.0,1,250.0,Dinheiro,Srta. Nicole Castro,Centro-Oeste,Pendente
+24/01/2024,0037,597,Sabrina Mendes,Smartwatch DEF,2004,Eletrônicos,800.0,5,4000.0,Dinheiro,Felipe da Mota,Sul,Pendente
+14/03/2024,0038,584,Lavínia Cunha,Smartwatch DEF,2004,Eletrônicos,800.0,4,3200.0,Transferência,Carolina Freitas,Nordeste,Concluída
+28/06/2024,0039,199,Breno Pires,Monitor HD,2007,Eletrônicos,1000.0,3,3000.0,Transferência,Ana Luiza Barros,Sudeste,Cancelada
+10/09/2024,0040,984,Alana Carvalho,Smartphone XYZ,2001,Eletrônicos,1200.0,1,1200.0,Cartão,Davi Luiz Oliveira,Sudeste,Pendente
+07/07/2024,0041,447,Clara Nunes,Laptop ABC,2002,Eletrônicos,3500.0,2,7000.0,Dinheiro,Davi Luiz Nascimento,Nordeste,Pendente
+01/01/2024,0042,559,Emanuella Ramos,Mouse Wireless,2003,Acessórios,150.0,4,600.0,Dinheiro,Kevin Rodrigues,Centro-Oeste,Cancelada
+01/03/2024,0043,355,Gustavo da Rosa,Laptop ABC,2002,Eletrônicos,3500.0,4,14000.0,Cartão,Nathan Viana,Norte,Pendente
+24/01/2024,0044,653,Sra. Ana Carolina Barros,Smartphone XYZ,2001,Eletrônicos,1200.0,1,1200.0,Dinheiro,Luana Santos,Nordeste,Cancelada
+25/07/2024,0045,597,Benício Silva,Impressora Laser,2008,Eletrônicos,2000.0,2,4000.0,Transferência,Diego Campos,Norte,Concluída
+19/08/2024,0046,488,Renan Duarte,Smartphone XYZ,2001,Eletrônicos,1200.0,4,4800.0,Pix,Ana Vitória Farias,Sudeste,Cancelada
+12/08/2024,0047,533,Amanda Cardoso,Impressora Laser,2008,Eletrônicos,2000.0,2,4000.0,Dinheiro,Mirella Silveira,Centro-Oeste,Concluída
+02/05/2024,0048,159,Emanuel Lopes,Smartphone XYZ,2001,Eletrônicos,1200.0,3,3600.0,Cartão,Francisco Novaes,Norte,Pendente
+20/02/2024,0049,588,Melissa Jesus,Mouse Wireless,2003,Acessórios,150.0,1,150.0,Cartão,Gabrielly Cardoso,Nordeste,Concluída
+04/01/2024,0050,709,Mariane Castro,Laptop ABC,2002,Eletrônicos,3500.0,2,7000.0,Transferência,Luiz Otávio da Rosa,Norte,Pendente
+15/07/2024,0051,352,Cauê Monteiro,Smartphone XYZ,2001,Eletrônicos,1200.0,5,6000.0,Cartão,Felipe Moura,Sudeste,Pendente
+20/04/2024,0052,697,Leonardo Viana,Fone Bluetooth,2006,Acessórios,250.0,3,750.0,Dinheiro,Sra. Mariana Souza,Centro-Oeste,Concluída
+04/01/2024,0053,371,Maria Clara Jesus,Monitor HD,2007,Eletrônicos,1000.0,2,2000.0,Pix,Ana Lívia Cunha,Sudeste,Cancelada
+12/04/2024,0054,869,Calebe Vieira,Laptop ABC,2002,Eletrônicos,3500.0,1,3500.0,Transferência,Gabriel Gomes,Sul,Pendente
+22/08/2024,0055,202,Theo Mendes,Laptop ABC,2002,Eletrônicos,3500.0,5,17500.0,Dinheiro,Rodrigo Ferreira,Sul,Cancelada
+15/07/2024,0056,235,Eloah Barros,Fone Bluetooth,2006,Acessórios,250.0,1,250.0,Dinheiro,Pedro Miguel Pereira,Centro-Oeste,Cancelada
+18/11/2024,0057,261,Augusto Almeida,Impressora Laser,2008,Eletrônicos,2000.0,5,10000.0,Pix,Sr. Pedro Miguel Ferreira,Sul,Pendente
+03/03/2024,0058,641,Sra. Maria Clara Pereira,Smartphone XYZ,2001,Eletrônicos,1200.0,5,6000.0,Pix,Alana Correia,Norte,Concluída
+30/01/2024,0059,370,Srta. Maria Cecília Azevedo,Laptop ABC,2002,Eletrônicos,3500.0,1,3500.0,Dinheiro,Sr. Leandro Costela,Centro-Oeste,Cancelada
+17/01/2024,0060,719,João Guilherme Barbosa,Smartwatch DEF,2004,Eletrônicos,800.0,3,2400.0,Dinheiro,Sr. Rodrigo Farias,Centro-Oeste,Pendente
+16/09/2024,0061,600,João Gabriel Oliveira,Teclado RGB,2005,Acessórios,300.0,1,300.0,Cartão,Sofia da Costa,Sudeste,Cancelada
+01/04/2024,0062,145,Davi Oliveira,Smartphone XYZ,2001,Eletrônicos,1200.0,3,3600.0,Dinheiro,Davi Melo,Centro-Oeste,Concluída
+30/10/2024,0063,859,Yasmin Farias,Impressora Laser,2008,Eletrônicos,2000.0,5,10000.0,Transferência,Davi Lucca Cavalcanti,Sul,Concluída
+28/05/2024,0064,214,Lucas das Neves,Laptop ABC,2002,Eletrônicos,3500.0,2,7000.0,Cartão,Lorenzo Monteiro,Centro-Oeste,Pendente
+28/04/2024,0065,665,Enzo Gabriel Araújo,Mouse Wireless,2003,Acessórios,150.0,4,600.0,Dinheiro,Caroline Nunes,Norte,Cancelada
+07/05/2024,0066,473,Bernardo Freitas,Smartphone XYZ,2001,Eletrônicos,1200.0,3,3600.0,Dinheiro,Dr. Renan Teixeira,Nordeste,Pendente
+08/05/2024,0067,205,Carlos Eduardo Ferreira,Fone Bluetooth,2006,Acessórios,250.0,5,1250.0,Transferência,Nathan Ferreira,Sul,Pendente
+15/01/2024,0068,258,Noah Pinto,Smartwatch DEF,2004,Eletrônicos,800.0,2,1600.0,Dinheiro,Dr. Leandro Silva,Sudeste,Concluída
+14/02/2024,0069,283,Maria Julia da Mota,Fone Bluetooth,2006,Acessórios,250.0,4,1000.0,Dinheiro,Augusto Pinto,Centro-Oeste,Concluída
+01/01/2024,0070,906,Maria Alice da Paz,Laptop ABC,2002,Eletrônicos,3500.0,4,14000.0,Cartão,Dr. Bernardo Melo,Sudeste,Concluída
+30/08/2024,0071,304,Sr. Thiago Jesus,Impressora Laser,2008,Eletrônicos,2000.0,3,6000.0,Pix,Gabriela Oliveira,Nordeste,Concluída
+06/05/2024,0072,124,Pietra Gonçalves,Smartwatch DEF,2004,Eletrônicos,800.0,4,3200.0,Pix,Ana da Mota,Centro-Oeste,Concluída
+12/06/2024,0073,891,Isis da Luz,Teclado RGB,2005,Acessórios,300.0,3,900.0,Transferência,Maria Fernanda Jesus,Sul,Cancelada
+06/06/2024,0074,128,Agatha Jesus,Laptop ABC,2002,Eletrônicos,3500.0,3,10500.0,Dinheiro,Emanuel Pinto,Sul,Cancelada
+01/11/2024,0075,139,Maria Martins,Laptop ABC,2002,Eletrônicos,3500.0,5,17500.0,Transferência,Laura Pires,Centro-Oeste,Pendente
+19/09/2024,0076,905,Luiz Gustavo Ribeiro,Fone Bluetooth,2006,Acessórios,250.0,4,1000.0,Cartão,Srta. Mirella Cardoso,Sudeste,Pendente
+20/04/2024,0077,294,Mirella Melo,Teclado RGB,2005,Acessórios,300.0,1,300.0,Transferência,Vitor Gabriel Duarte,Norte,Pendente
+18/09/2024,0078,925,Enzo Gabriel da Paz,Smartwatch DEF,2004,Eletrônicos,800.0,3,2400.0,Transferência,Antônio Barbosa,Norte,Pendente
+05/04/2024,0079,438,Mariana Cardoso,Fone Bluetooth,2006,Acessórios,250.0,1,250.0,Pix,Kamilly da Mota,Sul,Cancelada
+05/10/2024,0080,782,Sra. Luna Nunes,Monitor HD,2007,Eletrônicos,1000.0,3,3000.0,Transferência,Danilo Almeida,Centro-Oeste,Pendente
+18/10/2024,0081,230,Yago Pereira,Smartwatch DEF,2004,Eletrônicos,800.0,4,3200.0,Transferência,Davi Silveira,Nordeste,Pendente
+29/06/2024,0082,682,Matheus Farias,Teclado RGB,2005,Acessórios,300.0,4,1200.0,Cartão,Lorenzo Cunha,Centro-Oeste,Cancelada
+07/11/2024,0083,315,Natália Souza,Monitor HD,2007,Eletrônicos,1000.0,5,5000.0,Pix,Maria Vitória Lopes,Sudeste,Cancelada
+20/10/2024,0084,552,Mariana Santos,Smartwatch DEF,2004,Eletrônicos,800.0,5,4000.0,Transferência,Maria Clara Porto,Nordeste,Pendente
+02/03/2024,0085,186,Sra. Lavínia Ferreira,Teclado RGB,2005,Acessórios,300.0,5,1500.0,Pix,Pedro Miguel Freitas,Norte,Concluída
+24/10/2024,0086,788,Luiza Duarte,Teclado RGB,2005,Acessórios,300.0,2,600.0,Dinheiro,Leonardo Cardoso,Nordeste,Concluída
+04/10/2024,0087,147,Erick Fogaça,Smartwatch DEF,2004,Eletrônicos,800.0,4,3200.0,Cartão,Dr. Marcelo Cardoso,Sudeste,Cancelada
+23/02/2024,0088,744,Enzo Nogueira,Smartwatch DEF,2004,Eletrônicos,800.0,4,3200.0,Transferência,Srta. Rafaela da Rosa,Sudeste,Concluída
+25/01/2024,0089,251,Júlia Melo,Smartphone XYZ,2001,Eletrônicos,1200.0,1,1200.0,Transferência,Letícia Peixoto,Nordeste,Concluída
+25/01/2024,0090,923,Kaique Nogueira,Impressora Laser,2008,Eletrônicos,2000.0,1,2000.0,Dinheiro,Pietra Aragão,Norte,Cancelada
+24/10/2024,0091,236,Isis Rocha,Impressora Laser,2008,Eletrônicos,2000.0,5,10000.0,Pix,João Gabriel Jesus,Sudeste,Pendente
+19/10/2024,0092,934,Kamilly Teixeira,Monitor HD,2007,Eletrônicos,1000.0,5,5000.0,Transferência,Dra. Maria Cecília das Neves,Nordeste,Pendente
+08/07/2024,0093,982,Gabriel Pinto,Impressora Laser,2008,Eletrônicos,2000.0,4,8000.0,Pix,Alice Nogueira,Nordeste,Pendente
+10/05/2024,0094,383,Nicole Nunes,Impressora Laser,2008,Eletrônicos,2000.0,2,4000.0,Pix,Srta. Letícia Costela,Sudeste,Concluída
+29/08/2024,0095,830,Alice Novaes,Teclado RGB,2005,Acessórios,300.0,2,600.0,Pix,Maria Fernanda Araújo,Centro-Oeste,Cancelada
+02/02/2024,0096,653,Lara Cunha,Laptop ABC,2002,Eletrônicos,3500.0,2,7000.0,Dinheiro,Carolina Barros,Nordeste,Cancelada
+11/04/2024,0097,810,Giovanna da Rosa,Mouse Wireless,2003,Acessórios,150.0,2,300.0,Cartão,Giovanna Mendes,Sudeste,Cancelada
+22/10/2024,0098,438,Emilly Peixoto,Impressora Laser,2008,Eletrônicos,2000.0,4,8000.0,Cartão,Bruno Ribeiro,Nordeste,Cancelada
+08/01/2024,0099,498,Dra. Ana Beatriz Monteiro,Smartphone XYZ,2001,Eletrônicos,1200.0,5,6000.0,Transferência,Pietro Campos,Sudeste,Concluída
+30/10/2024,0100,460,Amanda Araújo,Teclado RGB,2005,Acessórios,300.0,4,1200.0,Transferência,Eduardo Aragão,Sul,Pendente
+29/08/2024,0101,852,Erick Costela,Smartwatch DEF,2004,Eletrônicos,800.0,4,3200.0,Dinheiro,Natália Correia,Centro-Oeste,Cancelada
+07/08/2024,0102,597,Lucas Gabriel Fernandes,Smartphone XYZ,2001,Eletrônicos,1200.0,4,4800.0,Pix,Sr. Otávio Correia,Sudeste,Pendente
+29/10/2024,0103,269,Henrique Cavalcanti,Impressora Laser,2008,Eletrônicos,2000.0,2,4000.0,Cartão,Alice Lima,Sudeste,Pendente
+11/08/2024,0104,677,Isis Novaes,Smartphone XYZ,2001,Eletrônicos,1200.0,1,1200.0,Transferência,Srta. Ana Julia Farias,Nordeste,Cancelada
+09/02/2024,0105,286,Sra. Nina Costa,Smartphone XYZ,2001,Eletrônicos,1200.0,3,3600.0,Transferência,Valentina Barbosa,Centro-Oeste,Concluída
+14/05/2024,0106,565,Lara Moura,Fone Bluetooth,2006,Acessórios,250.0,3,750.0,Transferência,Luiz Fernando Mendes,Centro-Oeste,Cancelada
+05/01/2024,0107,358,Luiza Cavalcanti,Laptop ABC,2002,Eletrônicos,3500.0,4,14000.0,Cartão,Isabelly Ramos,Sul,Concluída
+01/10/2024,0108,458,Leandro da Luz,Smartwatch DEF,2004,Eletrônicos,800.0,1,800.0,Cartão,Dra. Milena Fogaça,Norte,Concluída
+27/08/2024,0109,304,Stephany Rocha,Smartphone XYZ,2001,Eletrônicos,1200.0,5,6000.0,Dinheiro,Larissa Fogaça,Nordeste,Concluída
+05/05/2024,0110,584,Bryan Freitas,Laptop ABC,2002,Eletrônicos,3500.0,5,17500.0,Dinheiro,Elisa Rezende,Sudeste,Pendente
+09/08/2024,0111,362,Natália Nascimento,Fone Bluetooth,2006,Acessórios,250.0,2,500.0,Cartão,Sr. Luiz Felipe Martins,Nordeste,Cancelada
+11/03/2024,0112,210,Clara Moraes,Smartphone XYZ,2001,Eletrônicos,1200.0,3,3600.0,Transferência,Joaquim Freitas,Sudeste,Pendente
+19/08/2024,0113,303,Sra. Maria Eduarda Alves,Laptop ABC,2002,Eletrônicos,3500.0,5,17500.0,Dinheiro,Caroline Cardoso,Norte,Pendente
+03/04/2024,0114,891,Sra. Luiza Duarte,Teclado RGB,2005,Acessórios,300.0,5,1500.0,Cartão,Sra. Melissa Rodrigues,Sul,Concluída
+23/06/2024,0115,455,Bryan Gonçalves,Monitor HD,2007,Eletrônicos,1000.0,3,3000.0,Cartão,João Farias,Sul,Pendente
+28/04/2024,0116,449,Maria Luiza Moura,Smartphone XYZ,2001,Eletrônicos,1200.0,4,4800.0,Transferência,Maria Clara Souza,Norte,Cancelada
+13/05/2024,0117,470,Sofia Vieira,Impressora Laser,2008,Eletrônicos,2000.0,2,4000.0,Transferência,Dr. Samuel Ramos,Nordeste,Pendente
+15/04/2024,0118,634,Fernando Dias,Teclado RGB,2005,Acessórios,300.0,5,1500.0,Transferência,Thiago da Mota,Sudeste,Cancelada
+02/05/2024,0119,945,Vinicius Teixeira,Teclado RGB,2005,Acessórios,300.0,3,900.0,Dinheiro,Srta. Caroline da Rosa,Norte,Cancelada
+13/10/2024,0120,561,Emilly Souza,Smartwatch DEF,2004,Eletrônicos,800.0,4,3200.0,Transferência,Esther Castro,Centro-Oeste,Concluída
+19/11/2024,0121,606,Gustavo Dias,Fone Bluetooth,2006,Acessórios,250.0,2,500.0,Transferência,Sr. Heitor Alves,Nordeste,Cancelada
+01/10/2024,0122,916,Ana Freitas,Teclado RGB,2005,Acessórios,300.0,3,900.0,Pix,Benjamin Vieira,Sul,Pendente
+23/04/2024,0123,382,Srta. Maysa Rodrigues,Smartphone XYZ,2001,Eletrônicos,1200.0,5,6000.0,Dinheiro,André Gomes,Norte,Concluída
+01/07/2024,0124,837,Laura Mendes,Monitor HD,2007,Eletrônicos,1000.0,4,4000.0,Dinheiro,Benjamin Fernandes,Sudeste,Pendente
+04/07/2024,0125,828,Bernardo Nunes,Impressora Laser,2008,Eletrônicos,2000.0,4,8000.0,Cartão,Ana Julia Barros,Norte,Cancelada
+28/02/2024,0126,326,Miguel Jesus,Monitor HD,2007,Eletrônicos,1000.0,2,2000.0,Pix,Felipe Costa,Sul,Cancelada
+04/08/2024,0127,584,Maria das Neves,Fone Bluetooth,2006,Acessórios,250.0,4,1000.0,Pix,Isis Porto,Centro-Oeste,Pendente
+20/06/2024,0128,564,Nicolas Pereira,Teclado RGB,2005,Acessórios,300.0,3,900.0,Pix,Miguel Caldeira,Nordeste,Concluída
+24/08/2024,0129,838,Srta. Sophie da Rocha,Smartwatch DEF,2004,Eletrônicos,800.0,3,2400.0,Cartão,Clara Ferreira,Sul,Pendente
+13/09/2024,0130,289,Davi Lucca Duarte,Smartwatch DEF,2004,Eletrônicos,800.0,2,1600.0,Transferência,Marcos Vinicius Cardoso,Centro-Oeste,Pendente
+01/03/2024,0131,703,Juan Porto,Teclado RGB,2005,Acessórios,300.0,1,300.0,Dinheiro,Dra. Lorena Gonçalves,Centro-Oeste,Concluída
+13/01/2024,0132,469,Gustavo Henrique Gomes,Mouse Wireless,2003,Acessórios,150.0,3,450.0,Cartão,Sra. Ana Julia Dias,Sul,Concluída
+12/04/2024,0133,380,Maria Sophia da Paz,Smartphone XYZ,2001,Eletrônicos,1200.0,1,1200.0,Pix,Ana Sophia Viana,Nordeste,Pendente
+28/03/2024,0134,989,Brenda Fogaça,Impressora Laser,2008,Eletrônicos,2000.0,1,2000.0,Cartão,Breno Caldeira,Sul,Cancelada
+05/03/2024,0135,580,Noah Gomes,Impressora Laser,2008,Eletrônicos,2000.0,4,8000.0,Pix,Ana Vitória Rezende,Nordeste,Concluída
+24/09/2024,0136,358,Samuel Nunes,Impressora Laser,2008,Eletrônicos,2000.0,1,2000.0,Cartão,Luiz Fernando Viana,Sudeste,Cancelada
+10/07/2024,0137,175,Ana Júlia Barbosa,Smartphone XYZ,2001,Eletrônicos,1200.0,2,2400.0,Dinheiro,Sarah Martins,Sul,Cancelada
+22/08/2024,0138,187,Antônio Carvalho,Smartwatch DEF,2004,Eletrônicos,800.0,1,800.0,Transferência,Renan Aragão,Sul,Pendente
+24/10/2024,0139,909,Emanuelly Barbosa,Smartwatch DEF,2004,Eletrônicos,800.0,5,4000.0,Transferência,Lucas Silveira,Sudeste,Cancelada
+10/09/2024,0140,404,Emilly da Mata,Monitor HD,2007,Eletrônicos,1000.0,3,3000.0,Cartão,Larissa Rodrigues,Sul,Pendente
+05/02/2024,0141,201,Isabel Oliveira,Smartwatch DEF,2004,Eletrônicos,800.0,2,1600.0,Pix,Dr. Raul Cavalcanti,Norte,Concluída
+03/03/2024,0142,345,Dr. Ryan Sales,Mouse Wireless,2003,Acessórios,150.0,5,750.0,Cartão,Rafael Nunes,Nordeste,Concluída
+11/11/2024,0143,518,Alícia Ramos,Impressora Laser,2008,Eletrônicos,2000.0,5,10000.0,Transferência,Ian Fernandes,Centro-Oeste,Concluída
+05/05/2024,0144,337,Vitor Nunes,Teclado RGB,2005,Acessórios,300.0,3,900.0,Transferência,Agatha Viana,Norte,Pendente
+28/06/2024,0145,339,Ana Beatriz da Mota,Teclado RGB,2005,Acessórios,300.0,5,1500.0,Dinheiro,Isabelly Sales,Sudeste,Concluída
+30/08/2024,0146,657,Sophie Barros,Smartwatch DEF,2004,Eletrônicos,800.0,2,1600.0,Pix,Gabriel Vieira,Nordeste,Concluída
+20/02/2024,0147,161,Leonardo Rodrigues,Mouse Wireless,2003,Acessórios,150.0,3,450.0,Pix,Antônio Duarte,Sudeste,Concluída
+02/10/2024,0148,579,Henrique Vieira,Teclado RGB,2005,Acessórios,300.0,4,1200.0,Pix,Marcos Vinicius Oliveira,Sul,Pendente
+06/02/2024,0149,605,Carlos Eduardo Rezende,Impressora Laser,2008,Eletrônicos,2000.0,1,2000.0,Cartão,Pedro da Costa,Sudeste,Pendente
+12/07/2024,0150,430,Sra. Maitê Fogaça,Teclado RGB,2005,Acessórios,300.0,1,300.0,Cartão,Luana Ribeiro,Nordeste,Pendente
+04/04/2024,0151,956,Maria Clara da Conceição,Smartphone XYZ,2001,Eletrônicos,1200.0,3,3600.0,Cartão,Caroline Silva,Nordeste,Cancelada
+16/10/2024,0152,631,Bernardo Freitas,Impressora Laser,2008,Eletrônicos,2000.0,3,6000.0,Dinheiro,Heloísa Santos,Sul,Cancelada
+13/04/2024,0153,750,Gustavo Henrique Jesus,Impressora Laser,2008,Eletrônicos,2000.0,1,2000.0,Transferência,Maria Luiza Rodrigues,Centro-Oeste,Cancelada
+27/02/2024,0154,441,Maria Alice Rocha,Fone Bluetooth,2006,Acessórios,250.0,1,250.0,Dinheiro,Dr. Marcos Vinicius Viana,Centro-Oeste,Cancelada
+26/05/2024,0155,810,Giovanna da Mota,Impressora Laser,2008,Eletrônicos,2000.0,3,6000.0,Transferência,Srta. Maria Julia Nogueira,Sul,Concluída
+31/03/2024,0156,565,Amanda Lopes,Laptop ABC,2002,Eletrônicos,3500.0,3,10500.0,Pix,Sra. Rafaela Nascimento,Centro-Oeste,Concluída
+29/05/2024,0157,891,Vitória da Costa,Monitor HD,2007,Eletrônicos,1000.0,5,5000.0,Cartão,Alícia Costela,Sul,Cancelada
+14/07/2024,0158,523,Helena Castro,Smartphone XYZ,2001,Eletrônicos,1200.0,2,2400.0,Pix,Ana Luiza Souza,Sul,Cancelada
+26/06/2024,0159,740,Thiago da Conceição,Impressora Laser,2008,Eletrônicos,2000.0,1,2000.0,Dinheiro,Milena da Costa,Centro-Oeste,Pendente
+30/01/2024,0160,234,Valentina Ferreira,Teclado RGB,2005,Acessórios,300.0,4,1200.0,Transferência,Dr. Pietro Cardoso,Norte,Concluída
+07/05/2024,0161,745,Maria Alice Nascimento,Smartwatch DEF,2004,Eletrônicos,800.0,2,1600.0,Pix,Dr. Marcelo Azevedo,Sul,Concluída
+27/08/2024,0162,665,Erick Gomes,Monitor HD,2007,Eletrônicos,1000.0,1,1000.0,Dinheiro,Vinicius Carvalho,Norte,Cancelada
+17/06/2024,0163,220,Vitor Hugo Castro,Mouse Wireless,2003,Acessórios,150.0,4,600.0,Pix,Bárbara Jesus,Sul,Pendente
+12/01/2024,0164,379,Igor Caldeira,Monitor HD,2007,Eletrônicos,1000.0,4,4000.0,Transferência,João Gabriel Moura,Nordeste,Cancelada
+16/06/2024,0165,664,Felipe Souza,Mouse Wireless,2003,Acessórios,150.0,4,600.0,Dinheiro,Maria Fernanda da Mata,Sul,Pendente
+07/03/2024,0166,864,Bruno Nascimento,Mouse Wireless,2003,Acessórios,150.0,1,150.0,Pix,Nina Duarte,Sudeste,Cancelada
+12/07/2024,0167,906,Bianca Dias,Teclado RGB,2005,Acessórios,300.0,1,300.0,Pix,Maysa Fernandes,Centro-Oeste,Pendente
+27/06/2024,0168,693,Raul Alves,Impressora Laser,2008,Eletrônicos,2000.0,2,4000.0,Transferência,Esther Viana,Sul,Cancelada
+02/03/2024,0169,453,Leonardo Monteiro,Fone Bluetooth,2006,Acessórios,250.0,5,1250.0,Transferência,Fernanda Pereira,Sudeste,Cancelada
+25/09/2024,0170,990,Lorenzo Jesus,Smartwatch DEF,2004,Eletrônicos,800.0,2,1600.0,Transferência,João Pedro Rocha,Nordeste,Cancelada
+11/02/2024,0171,144,João Miguel Moraes,Fone Bluetooth,2006,Acessórios,250.0,4,1000.0,Transferência,Evelyn Gonçalves,Sudeste,Pendente
+09/01/2024,0172,911,Julia Freitas,Mouse Wireless,2003,Acessórios,150.0,4,600.0,Cartão,Miguel Barros,Nordeste,Pendente
+23/08/2024,0173,704,Sra. Esther Dias,Fone Bluetooth,2006,Acessórios,250.0,1,250.0,Transferência,Yasmin Moraes,Norte,Pendente
+26/03/2024,0174,567,Caroline Fernandes,Smartphone XYZ,2001,Eletrônicos,1200.0,2,2400.0,Transferência,Sophia Cunha,Nordeste,Concluída
+31/08/2024,0175,580,Pedro Lucas Barbosa,Teclado RGB,2005,Acessórios,300.0,3,900.0,Transferência,Yuri Pires,Norte,Cancelada
+13/01/2024,0176,972,Isabelly Costela,Monitor HD,2007,Eletrônicos,1000.0,3,3000.0,Transferência,Gustavo Martins,Sul,Concluída
+17/10/2024,0177,732,Camila da Paz,Laptop ABC,2002,Eletrônicos,3500.0,2,7000.0,Pix,Yuri Viana,Nordeste,Pendente
+22/05/2024,0178,192,Lívia Fogaça,Monitor HD,2007,Eletrônicos,1000.0,1,1000.0,Cartão,Fernando Rocha,Sudeste,Concluída
+09/11/2024,0179,810,Vinicius Mendes,Teclado RGB,2005,Acessórios,300.0,1,300.0,Cartão,Lucas Gabriel Cardoso,Centro-Oeste,Concluída
+24/02/2024,0180,400,Renan Novaes,Fone Bluetooth,2006,Acessórios,250.0,3,750.0,Transferência,Isabelly Carvalho,Nordeste,Concluída
+03/11/2024,0181,643,Alana Ferreira,Monitor HD,2007,Eletrônicos,1000.0,5,5000.0,Dinheiro,Ana Vitória Ramos,Nordeste,Concluída
+23/05/2024,0182,180,Sofia Ferreira,Monitor HD,2007,Eletrônicos,1000.0,5,5000.0,Dinheiro,Isis Moura,Sudeste,Pendente
+12/02/2024,0183,246,Daniela Ribeiro,Smartwatch DEF,2004,Eletrônicos,800.0,4,3200.0,Pix,Pedro Henrique Martins,Sudeste,Cancelada
+24/08/2024,0184,782,Pedro Campos,Smartphone XYZ,2001,Eletrônicos,1200.0,4,4800.0,Pix,Letícia Jesus,Sul,Concluída
+09/09/2024,0185,175,Ana Sophia Cunha,Impressora Laser,2008,Eletrônicos,2000.0,3,6000.0,Pix,Arthur Jesus,Sudeste,Pendente
+10/07/2024,0186,356,Caio Duarte,Impressora Laser,2008,Eletrônicos,2000.0,3,6000.0,Dinheiro,Beatriz Nogueira,Sudeste,Cancelada
+25/06/2024,0187,209,Dr. Nicolas da Costa,Smartwatch DEF,2004,Eletrônicos,800.0,4,3200.0,Pix,Milena Castro,Sul,Cancelada
+19/11/2024,0188,816,Mariana Oliveira,Teclado RGB,2005,Acessórios,300.0,1,300.0,Transferência,Arthur Moura,Centro-Oeste,Concluída
+25/03/2024,0189,679,Laura Duarte,Smartphone XYZ,2001,Eletrônicos,1200.0,5,6000.0,Transferência,Sr. Rodrigo Moura,Centro-Oeste,Concluída
+30/07/2024,0190,721,Isabella Caldeira,Fone Bluetooth,2006,Acessórios,250.0,2,500.0,Dinheiro,Emilly da Mota,Sul,Cancelada
+17/02/2024,0191,794,Ana Laura da Rosa,Mouse Wireless,2003,Acessórios,150.0,1,150.0,Cartão,Maysa Aragão,Centro-Oeste,Cancelada
+20/01/2024,0192,134,Sr. Cauê da Rocha,Fone Bluetooth,2006,Acessórios,250.0,2,500.0,Cartão,Vitor Hugo Vieira,Centro-Oeste,Cancelada
+21/03/2024,0193,865,Clara Dias,Monitor HD,2007,Eletrônicos,1000.0,2,2000.0,Dinheiro,Sr. Yuri Almeida,Nordeste,Pendente
+17/04/2024,0194,997,Cauê Viana,Fone Bluetooth,2006,Acessórios,250.0,5,1250.0,Pix,Davi Correia,Nordeste,Cancelada
+13/09/2024,0195,944,Cauê Alves,Impressora Laser,2008,Eletrônicos,2000.0,3,6000.0,Pix,Sr. Nicolas Martins,Norte,Cancelada
+07/01/2024,0196,177,Francisco Barros,Mouse Wireless,2003,Acessórios,150.0,2,300.0,Transferência,Vicente Peixoto,Sul,Cancelada
+23/07/2024,0197,192,Vinicius Campos,Monitor HD,2007,Eletrônicos,1000.0,1,1000.0,Pix,Lavínia Moreira,Sul,Concluída
+18/07/2024,0198,565,Ana Lívia Porto,Fone Bluetooth,2006,Acessórios,250.0,3,750.0,Transferência,Clarice Barbosa,Centro-Oeste,Concluída
+09/10/2024,0199,791,Manuela Jesus,Smartwatch DEF,2004,Eletrônicos,800.0,4,3200.0,Cartão,Melissa Araújo,Sul,Pendente
+24/01/2024,0200,435,Juliana Pereira,Smartwatch DEF,2004,Eletrônicos,800.0,1,800.0,Transferência,Ana Lívia Rodrigues,Centro-Oeste,Pendente
+03/10/2024,0201,518,Ana Julia Cardoso,Laptop ABC,2002,Eletrônicos,3500.0,2,7000.0,Cartão,Sr. Bernardo Costela,Norte,Cancelada
+16/04/2024,0202,604,Maysa Vieira,Laptop ABC,2002,Eletrônicos,3500.0,1,3500.0,Dinheiro,Sra. Isis Souza,Sul,Concluída
+24/04/2024,0203,497,Lívia Pinto,Impressora Laser,2008,Eletrônicos,2000.0,3,6000.0,Transferência,Samuel Correia,Sul,Pendente
+11/09/2024,0204,844,Stella Vieira,Mouse Wireless,2003,Acessórios,150.0,4,600.0,Cartão,Srta. Larissa Porto,Sudeste,Pendente
+29/03/2024,0205,517,Heloísa Ramos,Teclado RGB,2005,Acessórios,300.0,1,300.0,Pix,Kamilly Castro,Nordeste,Cancelada
+01/05/2024,0206,555,Gabrielly Fernandes,Smartwatch DEF,2004,Eletrônicos,800.0,3,2400.0,Cartão,Sr. Rodrigo Ribeiro,Centro-Oeste,Pendente
+27/01/2024,0207,760,Bruno Carvalho,Fone Bluetooth,2006,Acessórios,250.0,1,250.0,Transferência,Ana Luiza Moura,Centro-Oeste,Concluída
+11/11/2024,0208,225,Matheus Caldeira,Impressora Laser,2008,Eletrônicos,2000.0,1,2000.0,Dinheiro,Maria Eduarda Melo,Sul,Concluída
+17/09/2024,0209,151,Juan Moraes,Fone Bluetooth,2006,Acessórios,250.0,2,500.0,Dinheiro,Sophia Pereira,Sul,Concluída
+07/10/2024,0210,170,Gustavo Henrique Lima,Smartwatch DEF,2004,Eletrônicos,800.0,5,4000.0,Dinheiro,Sr. Murilo Santos,Nordeste,Cancelada
+23/03/2024,0211,892,Rafael Rocha,Mouse Wireless,2003,Acessórios,150.0,5,750.0,Cartão,Calebe Monteiro,Centro-Oeste,Concluída
+24/11/2024,0212,233,Isadora Correia,Teclado RGB,2005,Acessórios,300.0,2,600.0,Cartão,Murilo das Neves,Norte,Concluída
+09/11/2024,0213,115,Maria Eduarda Araújo,Fone Bluetooth,2006,Acessórios,250.0,2,500.0,Pix,Mirella Fogaça,Norte,Concluída
+12/01/2024,0214,371,Gabriel Lima,Smartphone XYZ,2001,Eletrônicos,1200.0,2,2400.0,Transferência,Dr. Alexandre da Mata,Sul,Concluída
+25/02/2024,0215,863,Mirella Nunes,Laptop ABC,2002,Eletrônicos,3500.0,4,14000.0,Transferência,Danilo Araújo,Centro-Oeste,Pendente
+05/02/2024,0216,707,Dra. Clara Nascimento,Laptop ABC,2002,Eletrônicos,3500.0,4,14000.0,Dinheiro,Laís Mendes,Sul,Concluída
+02/03/2024,0217,844,Dr. Thiago Martins,Teclado RGB,2005,Acessórios,300.0,4,1200.0,Cartão,Maria Vitória Cardoso,Norte,Cancelada
+21/01/2024,0218,967,Davi Lucca Barros,Monitor HD,2007,Eletrônicos,1000.0,4,4000.0,Cartão,Ana Júlia Fogaça,Sudeste,Pendente
+21/06/2024,0219,554,Lara Rodrigues,Laptop ABC,2002,Eletrônicos,3500.0,1,3500.0,Pix,Laura Peixoto,Sul,Concluída
+16/04/2024,0220,167,Vitor Gabriel Silva,Mouse Wireless,2003,Acessórios,150.0,3,450.0,Pix,João Felipe Pinto,Sudeste,Pendente
+13/02/2024,0221,643,Renan Rodrigues,Teclado RGB,2005,Acessórios,300.0,4,1200.0,Transferência,Natália Lima,Norte,Pendente
+18/01/2024,0222,217,João Vitor Caldeira,Smartwatch DEF,2004,Eletrônicos,800.0,4,3200.0,Transferência,Emanuel Jesus,Nordeste,Cancelada
+23/03/2024,0223,447,Vitor Hugo Fernandes,Impressora Laser,2008,Eletrônicos,2000.0,4,8000.0,Transferência,Igor Costa,Norte,Cancelada
+04/01/2024,0224,537,Sofia Pinto,Fone Bluetooth,2006,Acessórios,250.0,3,750.0,Pix,Cauê Nascimento,Nordeste,Pendente
+25/07/2024,0225,585,Srta. Lívia Moraes,Laptop ABC,2002,Eletrônicos,3500.0,1,3500.0,Cartão,João Vitor Barbosa,Norte,Cancelada
+18/06/2024,0226,198,Lorenzo Cardoso,Fone Bluetooth,2006,Acessórios,250.0,2,500.0,Cartão,Dr. Murilo Nunes,Sul,Pendente
+02/10/2024,0227,675,Kamilly Gonçalves,Fone Bluetooth,2006,Acessórios,250.0,1,250.0,Transferência,João Aragão,Centro-Oeste,Pendente
+06/05/2024,0228,868,Pedro Henrique Ramos,Monitor HD,2007,Eletrônicos,1000.0,1,1000.0,Pix,Sra. Ana Laura Pinto,Sul,Cancelada
+23/11/2024,0229,460,Felipe Pinto,Laptop ABC,2002,Eletrônicos,3500.0,5,17500.0,Dinheiro,Juliana Souza,Nordeste,Pendente
+31/01/2024,0230,593,Gabriela Mendes,Smartwatch DEF,2004,Eletrônicos,800.0,1,800.0,Pix,Isaac da Cunha,Sul,Cancelada
+30/01/2024,0231,217,Maysa Correia,Teclado RGB,2005,Acessórios,300.0,5,1500.0,Dinheiro,Maitê da Mota,Sudeste,Pendente
+28/10/2024,0232,885,Dr. Thomas da Conceição,Smartphone XYZ,2001,Eletrônicos,1200.0,5,6000.0,Pix,Calebe da Conceição,Norte,Concluída
+09/04/2024,0233,379,Davi da Costa,Teclado RGB,2005,Acessórios,300.0,3,900.0,Pix,Ana Julia da Luz,Norte,Concluída
+27/10/2024,0234,990,Luna Rezende,Mouse Wireless,2003,Acessórios,150.0,5,750.0,Transferência,Sophie Porto,Norte,Concluída
+21/09/2024,0235,858,Melissa Martins,Smartphone XYZ,2001,Eletrônicos,1200.0,1,1200.0,Dinheiro,Gabrielly da Costa,Sudeste,Cancelada
+19/06/2024,0236,564,Lucas Pires,Fone Bluetooth,2006,Acessórios,250.0,2,500.0,Pix,Fernanda Freitas,Centro-Oeste,Pendente
+17/08/2024,0237,432,João Gabriel Santos,Laptop ABC,2002,Eletrônicos,3500.0,1,3500.0,Dinheiro,Henrique Rezende,Nordeste,Pendente
+24/06/2024,0238,150,Benício Moura,Laptop ABC,2002,Eletrônicos,3500.0,3,10500.0,Transferência,Breno Carvalho,Sudeste,Cancelada
+26/08/2024,0239,721,Lívia Nogueira,Impressora Laser,2008,Eletrônicos,2000.0,4,8000.0,Pix,Maria Luiza Vieira,Nordeste,Pendente
+03/11/2024,0240,216,Srta. Lavínia da Mota,Fone Bluetooth,2006,Acessórios,250.0,4,1000.0,Cartão,Dr. Luiz Fernando da Costa,Centro-Oeste,Pendente
+25/01/2024,0241,794,Ana Lívia Mendes,Impressora Laser,2008,Eletrônicos,2000.0,5,10000.0,Pix,Srta. Lívia da Luz,Norte,Concluída
+16/01/2024,0242,504,Thales Pires,Smartphone XYZ,2001,Eletrônicos,1200.0,1,1200.0,Dinheiro,Marcela Silveira,Centro-Oeste,Concluída
+24/08/2024,0243,885,João Guilherme Moura,Mouse Wireless,2003,Acessórios,150.0,3,450.0,Pix,João Pedro Oliveira,Centro-Oeste,Concluída
+27/10/2024,0244,107,Sr. Pedro Lucas Melo,Impressora Laser,2008,Eletrônicos,2000.0,4,8000.0,Dinheiro,Isaac Castro,Nordeste,Cancelada
+04/08/2024,0245,645,Joana Gomes,Smartwatch DEF,2004,Eletrônicos,800.0,5,4000.0,Pix,Thiago da Costa,Norte,Cancelada
+09/05/2024,0246,982,Nathan da Conceição,Smartphone XYZ,2001,Eletrônicos,1200.0,4,4800.0,Cartão,Dr. Pietro Novaes,Sudeste,Concluída
+20/02/2024,0247,982,Rafaela Cardoso,Fone Bluetooth,2006,Acessórios,250.0,5,1250.0,Transferência,Matheus Nascimento,Sul,Cancelada
+06/09/2024,0248,826,Sr. Raul Souza,Monitor HD,2007,Eletrônicos,1000.0,3,3000.0,Cartão,Pedro Pereira,Sudeste,Concluída
+16/07/2024,0249,432,Sr. João Guilherme Lima,Mouse Wireless,2003,Acessórios,150.0,5,750.0,Transferência,Enrico Mendes,Centro-Oeste,Concluída
+24/10/2024,0250,547,Caroline das Neves,Laptop ABC,2002,Eletrônicos,3500.0,2,7000.0,Transferência,Davi Lucas Cardoso,Sul,Cancelada
+24/04/2024,0251,636,Luiz Fernando Viana,Laptop ABC,2002,Eletrônicos,3500.0,4,14000.0,Pix,Dra. Alícia Mendes,Centro-Oeste,Concluída
+24/10/2024,0252,441,Ana Nascimento,Mouse Wireless,2003,Acessórios,150.0,1,150.0,Cartão,Davi Lucca da Mata,Sul,Pendente
+18/11/2024,0253,298,Dra. Bárbara Pires,Fone Bluetooth,2006,Acessórios,250.0,3,750.0,Dinheiro,Juan Moreira,Nordeste,Concluída
+19/09/2024,0254,249,Srta. Laura Gomes,Teclado RGB,2005,Acessórios,300.0,2,600.0,Dinheiro,Sra. Daniela Teixeira,Sul,Concluída
+02/04/2024,0255,878,Yuri Ribeiro,Laptop ABC,2002,Eletrônicos,3500.0,2,7000.0,Transferência,João Lucas Pires,Sudeste,Pendente
+28/06/2024,0256,878,Yago Nascimento,Impressora Laser,2008,Eletrônicos,2000.0,5,10000.0,Pix,Marcela Peixoto,Centro-Oeste,Concluída
+03/03/2024,0257,550,Otávio Cunha,Laptop ABC,2002,Eletrônicos,3500.0,4,14000.0,Transferência,Benjamin Rocha,Centro-Oeste,Cancelada
+24/05/2024,0258,705,Ana Lívia Silveira,Smartphone XYZ,2001,Eletrônicos,1200.0,3,3600.0,Cartão,Gustavo Henrique Cardoso,Centro-Oeste,Cancelada
+23/10/2024,0259,562,Gabriel Porto,Smartphone XYZ,2001,Eletrônicos,1200.0,1,1200.0,Pix,Bianca Pinto,Centro-Oeste,Concluída
+05/02/2024,0260,760,Levi Monteiro,Laptop ABC,2002,Eletrônicos,3500.0,5,17500.0,Transferência,Kaique Barros,Sudeste,Pendente
+02/06/2024,0261,667,Isadora Duarte,Smartphone XYZ,2001,Eletrônicos,1200.0,4,4800.0,Dinheiro,Ana Júlia Moura,Centro-Oeste,Pendente
+28/03/2024,0262,587,Ian Castro,Mouse Wireless,2003,Acessórios,150.0,1,150.0,Transferência,Dra. Helena da Conceição,Norte,Cancelada
+23/02/2024,0263,831,Gustavo Henrique Ribeiro,Laptop ABC,2002,Eletrônicos,3500.0,5,17500.0,Dinheiro,Srta. Sophie Ribeiro,Norte,Concluída
+23/06/2024,0264,824,Agatha Cardoso,Impressora Laser,2008,Eletrônicos,2000.0,4,8000.0,Dinheiro,Fernando da Rosa,Centro-Oeste,Cancelada
+20/11/2024,0265,389,Marcos Vinicius Souza,Monitor HD,2007,Eletrônicos,1000.0,4,4000.0,Pix,Ana Sophia Gomes,Sul,Concluída
+02/04/2024,0266,908,Cauã Barros,Fone Bluetooth,2006,Acessórios,250.0,1,250.0,Pix,Kaique Ramos,Norte,Pendente
+25/01/2024,0267,794,Luiz Felipe Teixeira,Monitor HD,2007,Eletrônicos,1000.0,3,3000.0,Pix,Pedro Lucas Silva,Sul,Concluída
+11/08/2024,0268,441,Theo da Conceição,Laptop ABC,2002,Eletrônicos,3500.0,5,17500.0,Dinheiro,Kevin Almeida,Centro-Oeste,Cancelada
+26/08/2024,0269,771,Sr. Murilo Peixoto,Monitor HD,2007,Eletrônicos,1000.0,2,2000.0,Cartão,Raul Cardoso,Centro-Oeste,Pendente
+22/07/2024,0270,485,Sr. Luiz Miguel Viana,Fone Bluetooth,2006,Acessórios,250.0,2,500.0,Cartão,Valentina Santos,Sudeste,Pendente
+03/08/2024,0271,470,João Pedro Ribeiro,Smartphone XYZ,2001,Eletrônicos,1200.0,3,3600.0,Pix,Pedro Miguel Nogueira,Nordeste,Concluída
+24/05/2024,0272,449,Vinicius Aragão,Impressora Laser,2008,Eletrônicos,2000.0,2,4000.0,Dinheiro,Sr. João Felipe Duarte,Nordeste,Concluída
+11/10/2024,0273,179,Marina Cavalcanti,Teclado RGB,2005,Acessórios,300.0,1,300.0,Cartão,Sarah Melo,Centro-Oeste,Pendente
+21/02/2024,0274,234,João Gabriel Viana,Monitor HD,2007,Eletrônicos,1000.0,2,2000.0,Dinheiro,Sr. Yago Rezende,Nordeste,Pendente
+27/09/2024,0275,889,Marina da Mata,Mouse Wireless,2003,Acessórios,150.0,4,600.0,Cartão,Bernardo Ramos,Sudeste,Cancelada
+15/01/2024,0276,792,Eduardo Barbosa,Smartwatch DEF,2004,Eletrônicos,800.0,4,3200.0,Pix,Augusto Lopes,Sudeste,Concluída
+30/04/2024,0277,646,Julia Viana,Smartwatch DEF,2004,Eletrônicos,800.0,3,2400.0,Transferência,Eloah Azevedo,Nordeste,Cancelada
+19/10/2024,0278,794,Caroline Gomes,Impressora Laser,2008,Eletrônicos,2000.0,4,8000.0,Pix,Sr. Pietro Melo,Sudeste,Pendente
+16/04/2024,0279,640,João Lucas Pinto,Monitor HD,2007,Eletrônicos,1000.0,2,2000.0,Dinheiro,Sofia Pires,Sul,Concluída
+30/05/2024,0280,993,Sr. Luiz Felipe Sales,Teclado RGB,2005,Acessórios,300.0,1,300.0,Transferência,Dr. Bruno Pereira,Centro-Oeste,Pendente
+31/01/2024,0281,205,Maria da Mata,Laptop ABC,2002,Eletrônicos,3500.0,3,10500.0,Cartão,Evelyn Martins,Nordeste,Cancelada
+09/02/2024,0282,560,Igor Gonçalves,Mouse Wireless,2003,Acessórios,150.0,4,600.0,Cartão,Levi Pereira,Nordeste,Cancelada
+05/03/2024,0283,457,Sra. Isabel Porto,Smartphone XYZ,2001,Eletrônicos,1200.0,4,4800.0,Cartão,Thomas Moraes,Sudeste,Pendente
+26/08/2024,0284,482,Emilly Caldeira,Smartwatch DEF,2004,Eletrônicos,800.0,4,3200.0,Cartão,Raul Nunes,Centro-Oeste,Concluída
+21/05/2024,0285,128,Yasmin da Cruz,Fone Bluetooth,2006,Acessórios,250.0,1,250.0,Pix,Danilo Pires,Nordeste,Concluída
+14/01/2024,0286,139,Bernardo Duarte,Teclado RGB,2005,Acessórios,300.0,4,1200.0,Dinheiro,Isabelly Moreira,Sudeste,Cancelada
+28/05/2024,0287,730,Alícia da Costa,Smartphone XYZ,2001,Eletrônicos,1200.0,1,1200.0,Cartão,Lavínia Moura,Centro-Oeste,Concluída
+24/05/2024,0288,955,Sophie Cardoso,Mouse Wireless,2003,Acessórios,150.0,5,750.0,Transferência,Beatriz Souza,Norte,Cancelada
+22/05/2024,0289,343,Gabrielly Freitas,Teclado RGB,2005,Acessórios,300.0,1,300.0,Cartão,Carlos Eduardo Araújo,Nordeste,Cancelada
+12/10/2024,0290,754,Luiz Felipe Silveira,Impressora Laser,2008,Eletrônicos,2000.0,1,2000.0,Cartão,Maria Eduarda Costa,Sudeste,Pendente
+11/04/2024,0291,648,Thales Porto,Smartphone XYZ,2001,Eletrônicos,1200.0,5,6000.0,Dinheiro,Paulo Gomes,Nordeste,Cancelada
+26/09/2024,0292,539,Catarina Costa,Smartphone XYZ,2001,Eletrônicos,1200.0,5,6000.0,Pix,Breno Porto,Nordeste,Pendente
+08/03/2024,0293,526,Sra. Ana Laura Lopes,Mouse Wireless,2003,Acessórios,150.0,1,150.0,Pix,Isabel Campos,Norte,Pendente
+01/08/2024,0294,657,Evelyn Jesus,Smartphone XYZ,2001,Eletrônicos,1200.0,4,4800.0,Transferência,Theo da Luz,Norte,Pendente
+04/11/2024,0295,496,Sr. Cauã da Paz,Fone Bluetooth,2006,Acessórios,250.0,3,750.0,Cartão,Erick Sales,Centro-Oeste,Concluída
+11/01/2024,0296,453,Dr. Lucas Gabriel Vieira,Smartwatch DEF,2004,Eletrônicos,800.0,1,800.0,Pix,Paulo Carvalho,Nordeste,Concluída
+26/01/2024,0297,460,João Vitor Rocha,Fone Bluetooth,2006,Acessórios,250.0,2,500.0,Transferência,Júlia Oliveira,Sudeste,Pendente
+15/11/2024,0298,286,Ana Julia Costela,Mouse Wireless,2003,Acessórios,150.0,1,150.0,Transferência,Sr. Levi Rezende,Norte,Cancelada
+21/09/2024,0299,306,Isabel Costela,Smartphone XYZ,2001,Eletrônicos,1200.0,2,2400.0,Cartão,Maysa da Mata,Centro-Oeste,Cancelada
+25/10/2024,0300,627,Leandro Santos,Monitor HD,2007,Eletrônicos,1000.0,5,5000.0,Transferência,Cauã Silveira,Centro-Oeste,Concluída
+29/02/2024,0301,871,Davi Luiz da Cruz,Smartwatch DEF,2004,Eletrônicos,800.0,3,2400.0,Pix,Sr. João Felipe Silveira,Norte,Pendente
+20/04/2024,0302,439,Fernando da Paz,Teclado RGB,2005,Acessórios,300.0,1,300.0,Pix,Maria Clara Freitas,Sudeste,Cancelada
+18/02/2024,0303,861,Fernanda Teixeira,Impressora Laser,2008,Eletrônicos,2000.0,4,8000.0,Pix,Luiz Fernando da Cunha,Nordeste,Cancelada
+17/08/2024,0304,808,Brenda da Cunha,Impressora Laser,2008,Eletrônicos,2000.0,3,6000.0,Pix,Mariane Mendes,Norte,Pendente
+23/11/2024,0305,534,Amanda Araújo,Laptop ABC,2002,Eletrônicos,3500.0,4,14000.0,Dinheiro,Augusto Ferreira,Sul,Cancelada
+09/09/2024,0306,428,Vitor Peixoto,Laptop ABC,2002,Eletrônicos,3500.0,1,3500.0,Pix,Maysa Araújo,Centro-Oeste,Cancelada
+12/07/2024,0307,556,Maria Cecília Gonçalves,Monitor HD,2007,Eletrônicos,1000.0,2,2000.0,Transferência,Fernanda Rocha,Centro-Oeste,Cancelada
+05/04/2024,0308,143,Juliana Jesus,Fone Bluetooth,2006,Acessórios,250.0,5,1250.0,Transferência,Ana Julia Caldeira,Centro-Oeste,Pendente
+02/03/2024,0309,910,Kamilly Rocha,Smartphone XYZ,2001,Eletrônicos,1200.0,1,1200.0,Transferência,Cecília Mendes,Centro-Oeste,Pendente
+23/08/2024,0310,920,Ian Lopes,Mouse Wireless,2003,Acessórios,150.0,1,150.0,Dinheiro,Sra. Juliana Costela,Sul,Pendente
+22/10/2024,0311,900,Sr. Ian Duarte,Impressora Laser,2008,Eletrônicos,2000.0,1,2000.0,Dinheiro,Ana Vitória Fogaça,Norte,Concluída
+23/06/2024,0312,897,Danilo Castro,Fone Bluetooth,2006,Acessórios,250.0,3,750.0,Transferência,Gustavo Nogueira,Sul,Concluída
+26/08/2024,0313,719,Elisa da Cruz,Mouse Wireless,2003,Acessórios,150.0,4,600.0,Pix,Dr. Diogo da Cruz,Centro-Oeste,Cancelada
+12/07/2024,0314,881,Letícia Sales,Laptop ABC,2002,Eletrônicos,3500.0,5,17500.0,Dinheiro,Luiz Felipe Aragão,Sul,Cancelada
+04/02/2024,0315,507,Lívia Ramos,Fone Bluetooth,2006,Acessórios,250.0,3,750.0,Dinheiro,Enrico Moraes,Norte,Concluída
+19/01/2024,0316,853,Gustavo Henrique Sales,Mouse Wireless,2003,Acessórios,150.0,4,600.0,Transferência,Milena Ribeiro,Sul,Concluída
+20/04/2024,0317,368,Alana Cavalcanti,Teclado RGB,2005,Acessórios,300.0,4,1200.0,Dinheiro,Beatriz Ferreira,Sul,Cancelada
+09/10/2024,0318,810,Dr. João Guilherme Barbosa,Impressora Laser,2008,Eletrônicos,2000.0,2,4000.0,Cartão,Ana Beatriz da Mota,Nordeste,Concluída
+20/05/2024,0319,562,Esther Cardoso,Mouse Wireless,2003,Acessórios,150.0,4,600.0,Cartão,Lívia Porto,Centro-Oeste,Pendente
+23/10/2024,0320,455,Emilly Costa,Laptop ABC,2002,Eletrônicos,3500.0,5,17500.0,Pix,Caio Novaes,Centro-Oeste,Concluída
+24/05/2024,0321,828,Dr. Vitor Gabriel da Conceição,Mouse Wireless,2003,Acessórios,150.0,3,450.0,Dinheiro,Otávio Silva,Norte,Concluída
+04/06/2024,0322,911,Amanda Barbosa,Mouse Wireless,2003,Acessórios,150.0,2,300.0,Transferência,Daniel Melo,Norte,Cancelada
+08/11/2024,0323,667,Manuela Ramos,Fone Bluetooth,2006,Acessórios,250.0,4,1000.0,Dinheiro,Otávio Silva,Sul,Concluída
+24/02/2024,0324,167,Dr. Davi Lucca Novaes,Teclado RGB,2005,Acessórios,300.0,4,1200.0,Transferência,Sarah Jesus,Sul,Cancelada
+18/08/2024,0325,887,Dr. Thales Jesus,Monitor HD,2007,Eletrônicos,1000.0,5,5000.0,Cartão,Alexia Moura,Nordeste,Cancelada
+08/05/2024,0326,757,Ana Sophia Peixoto,Laptop ABC,2002,Eletrônicos,3500.0,4,14000.0,Transferência,Gabriela Araújo,Sul,Cancelada
+19/08/2024,0327,231,Emanuella Dias,Mouse Wireless,2003,Acessórios,150.0,2,300.0,Transferência,Srta. Maria Luiza Rocha,Sul,Concluída
+07/03/2024,0328,951,Marina Nascimento,Laptop ABC,2002,Eletrônicos,3500.0,5,17500.0,Dinheiro,Rodrigo Farias,Centro-Oeste,Concluída
+13/01/2024,0329,265,Pietra Correia,Fone Bluetooth,2006,Acessórios,250.0,2,500.0,Pix,Anthony Pires,Sul,Cancelada
+01/05/2024,0330,966,Brenda Oliveira,Laptop ABC,2002,Eletrônicos,3500.0,3,10500.0,Dinheiro,Srta. Júlia Santos,Sul,Cancelada
+27/10/2024,0331,228,Lorena Caldeira,Teclado RGB,2005,Acessórios,300.0,5,1500.0,Cartão,Srta. Manuela da Rocha,Sul,Pendente
+05/08/2024,0332,272,Dr. Luiz Miguel Nascimento,Mouse Wireless,2003,Acessórios,150.0,2,300.0,Pix,Sr. Lorenzo Teixeira,Sul,Concluída
+12/05/2024,0333,945,Isabella Ferreira,Smartphone XYZ,2001,Eletrônicos,1200.0,1,1200.0,Cartão,Luana da Mota,Sul,Cancelada
+05/04/2024,0334,766,Matheus Jesus,Smartwatch DEF,2004,Eletrônicos,800.0,5,4000.0,Transferência,Heitor Gomes,Sul,Pendente
+30/09/2024,0335,131,Ryan Rodrigues,Impressora Laser,2008,Eletrônicos,2000.0,5,10000.0,Pix,Dr. João Felipe Freitas,Centro-Oeste,Cancelada
+21/04/2024,0336,350,Murilo Viana,Monitor HD,2007,Eletrônicos,1000.0,3,3000.0,Transferência,Julia Monteiro,Norte,Pendente
+27/10/2024,0337,161,Gustavo Barbosa,Mouse Wireless,2003,Acessórios,150.0,4,600.0,Transferência,Theo Cardoso,Sudeste,Cancelada
+14/05/2024,0338,308,Milena Fernandes,Fone Bluetooth,2006,Acessórios,250.0,5,1250.0,Dinheiro,Sra. Clara da Paz,Centro-Oeste,Pendente
+17/11/2024,0339,426,Emanuelly Fogaça,Fone Bluetooth,2006,Acessórios,250.0,4,1000.0,Dinheiro,Calebe Duarte,Centro-Oeste,Pendente
+04/04/2024,0340,675,Raul Souza,Laptop ABC,2002,Eletrônicos,3500.0,3,10500.0,Dinheiro,Pedro Miguel Dias,Sudeste,Concluída
+21/01/2024,0341,373,Juan Melo,Impressora Laser,2008,Eletrônicos,2000.0,2,4000.0,Dinheiro,Sra. Ana Luiza Cunha,Norte,Concluída
+03/01/2024,0342,397,Bruna Oliveira,Monitor HD,2007,Eletrônicos,1000.0,5,5000.0,Transferência,Lorena Rocha,Nordeste,Concluída
+09/09/2024,0343,933,Vitor Gabriel Gomes,Fone Bluetooth,2006,Acessórios,250.0,5,1250.0,Pix,Dr. Pedro Caldeira,Nordeste,Concluída
+25/10/2024,0344,610,Pietro Dias,Impressora Laser,2008,Eletrônicos,2000.0,4,8000.0,Pix,Sarah Azevedo,Sudeste,Concluída
+08/03/2024,0345,192,Camila Azevedo,Monitor HD,2007,Eletrônicos,1000.0,5,5000.0,Transferência,Valentina Sales,Nordeste,Concluída
+13/03/2024,0346,697,Sra. Alícia Alves,Fone Bluetooth,2006,Acessórios,250.0,1,250.0,Cartão,Miguel Cavalcanti,Centro-Oeste,Cancelada
+10/05/2024,0347,711,Lorenzo Viana,Impressora Laser,2008,Eletrônicos,2000.0,3,6000.0,Cartão,Luna Cunha,Norte,Cancelada
+14/07/2024,0348,237,Emanuelly da Mota,Teclado RGB,2005,Acessórios,300.0,3,900.0,Transferência,Isaac da Cruz,Centro-Oeste,Concluída
+10/10/2024,0349,510,Melissa Fernandes,Smartphone XYZ,2001,Eletrônicos,1200.0,5,6000.0,Dinheiro,Srta. Alana Mendes,Centro-Oeste,Pendente
+03/11/2024,0350,395,Miguel da Mota,Laptop ABC,2002,Eletrônicos,3500.0,4,14000.0,Transferência,Paulo Nunes,Sul,Cancelada
+17/11/2024,0351,945,Maitê Martins,Laptop ABC,2002,Eletrônicos,3500.0,2,7000.0,Cartão,João Castro,Sudeste,Cancelada
+12/03/2024,0352,913,Lucca Martins,Fone Bluetooth,2006,Acessórios,250.0,5,1250.0,Pix,Alexandre Ferreira,Nordeste,Concluída
+28/05/2024,0353,716,Levi Fogaça,Monitor HD,2007,Eletrônicos,1000.0,5,5000.0,Cartão,Dr. Nathan Alves,Norte,Concluída
+11/04/2024,0354,240,Isabelly Duarte,Fone Bluetooth,2006,Acessórios,250.0,4,1000.0,Transferência,Raul Costa,Nordeste,Pendente
+29/06/2024,0355,627,Davi Lucca Nunes,Mouse Wireless,2003,Acessórios,150.0,3,450.0,Pix,Lívia Lima,Nordeste,Cancelada
+25/09/2024,0356,731,Pedro Miguel Gonçalves,Teclado RGB,2005,Acessórios,300.0,5,1500.0,Pix,Sr. Enzo Gabriel Cunha,Sul,Pendente
+04/07/2024,0357,645,Lorenzo Moura,Impressora Laser,2008,Eletrônicos,2000.0,5,10000.0,Pix,Pietra Vieira,Sudeste,Concluída
+01/07/2024,0358,477,Yasmin da Rosa,Fone Bluetooth,2006,Acessórios,250.0,1,250.0,Transferência,Rodrigo Cardoso,Sul,Cancelada
+23/07/2024,0359,915,Marcela Moreira,Smartphone XYZ,2001,Eletrônicos,1200.0,5,6000.0,Transferência,Miguel Correia,Centro-Oeste,Pendente
+24/01/2024,0360,901,Lívia da Paz,Smartwatch DEF,2004,Eletrônicos,800.0,1,800.0,Transferência,Maria Alice da Costa,Nordeste,Pendente
+04/03/2024,0361,744,Dr. Carlos Eduardo da Rocha,Monitor HD,2007,Eletrônicos,1000.0,2,2000.0,Dinheiro,Dra. Luiza Carvalho,Norte,Pendente
+17/07/2024,0362,817,Ana Carolina Ramos,Laptop ABC,2002,Eletrônicos,3500.0,2,7000.0,Cartão,Luiz Gustavo Peixoto,Sudeste,Cancelada
+26/06/2024,0363,528,Ana Carolina Rezende,Mouse Wireless,2003,Acessórios,150.0,4,600.0,Dinheiro,Gabriela Aragão,Sudeste,Pendente
+02/06/2024,0364,893,Alexandre da Rosa,Impressora Laser,2008,Eletrônicos,2000.0,1,2000.0,Dinheiro,Ana Julia Barbosa,Sul,Concluída
+13/06/2024,0365,674,Sr. Marcelo Caldeira,Fone Bluetooth,2006,Acessórios,250.0,4,1000.0,Transferência,Lucas Azevedo,Centro-Oeste,Concluída
+21/04/2024,0366,570,Carolina Cunha,Fone Bluetooth,2006,Acessórios,250.0,5,1250.0,Pix,Sabrina Peixoto,Centro-Oeste,Pendente
+25/05/2024,0367,595,Lavínia Nascimento,Smartwatch DEF,2004,Eletrônicos,800.0,2,1600.0,Pix,Ana Júlia Viana,Sul,Cancelada
+21/02/2024,0368,330,Isabel Costa,Teclado RGB,2005,Acessórios,300.0,3,900.0,Dinheiro,Luiz Otávio Novaes,Sudeste,Cancelada
+24/07/2024,0369,591,Thomas das Neves,Fone Bluetooth,2006,Acessórios,250.0,5,1250.0,Pix,Vitor Gabriel Aragão,Centro-Oeste,Concluída
+25/04/2024,0370,687,Nicole Viana,Monitor HD,2007,Eletrônicos,1000.0,4,4000.0,Pix,Maria Alice Nascimento,Nordeste,Cancelada
+15/11/2024,0371,143,Felipe Ramos,Teclado RGB,2005,Acessórios,300.0,1,300.0,Pix,Sr. Guilherme da Mota,Sudeste,Pendente
+08/10/2024,0372,362,Arthur Peixoto,Impressora Laser,2008,Eletrônicos,2000.0,2,4000.0,Dinheiro,Stella Aragão,Sul,Cancelada
+03/04/2024,0373,675,Bernardo Castro,Teclado RGB,2005,Acessórios,300.0,2,600.0,Cartão,Alícia Porto,Sul,Pendente
+20/08/2024,0374,700,Rafaela Barros,Smartwatch DEF,2004,Eletrônicos,800.0,2,1600.0,Cartão,Vicente Barbosa,Sul,Concluída
+05/06/2024,0375,753,Daniela Viana,Smartwatch DEF,2004,Eletrônicos,800.0,1,800.0,Cartão,Vitor Gabriel Caldeira,Sudeste,Cancelada
+24/02/2024,0376,834,Evelyn Dias,Impressora Laser,2008,Eletrônicos,2000.0,1,2000.0,Dinheiro,Dra. Gabrielly Martins,Norte,Pendente
+02/04/2024,0377,261,Danilo Silveira,Monitor HD,2007,Eletrônicos,1000.0,4,4000.0,Transferência,Juan Jesus,Nordeste,Cancelada
+16/04/2024,0378,428,Matheus da Luz,Teclado RGB,2005,Acessórios,300.0,1,300.0,Cartão,Nicole Pereira,Sul,Concluída
+03/08/2024,0379,647,Ana Beatriz Monteiro,Smartphone XYZ,2001,Eletrônicos,1200.0,2,2400.0,Transferência,Natália Nascimento,Nordeste,Concluída
+01/11/2024,0380,956,Gabrielly Peixoto,Monitor HD,2007,Eletrônicos,1000.0,4,4000.0,Dinheiro,Brenda Jesus,Centro-Oeste,Concluída
+26/05/2024,0381,109,Vitor Gabriel Teixeira,Teclado RGB,2005,Acessórios,300.0,5,1500.0,Cartão,Eduarda das Neves,Centro-Oeste,Cancelada
+26/04/2024,0382,565,Srta. Letícia Caldeira,Impressora Laser,2008,Eletrônicos,2000.0,2,4000.0,Transferência,Júlia Peixoto,Centro-Oeste,Concluída
+04/08/2024,0383,928,Beatriz Nogueira,Laptop ABC,2002,Eletrônicos,3500.0,3,10500.0,Dinheiro,Fernando da Rocha,Sudeste,Pendente
+08/05/2024,0384,363,Ana Júlia Porto,Mouse Wireless,2003,Acessórios,150.0,1,150.0,Pix,Sr. Luiz Otávio da Mota,Centro-Oeste,Pendente
+21/01/2024,0385,790,João Miguel Barbosa,Smartwatch DEF,2004,Eletrônicos,800.0,2,1600.0,Transferência,Diogo da Rosa,Sudeste,Pendente
+05/07/2024,0386,435,Isaac Jesus,Laptop ABC,2002,Eletrônicos,3500.0,4,14000.0,Cartão,Enrico da Mota,Nordeste,Concluída
+14/10/2024,0387,588,Vinicius Rocha,Fone Bluetooth,2006,Acessórios,250.0,2,500.0,Cartão,Samuel da Rocha,Centro-Oeste,Cancelada
+03/06/2024,0388,341,Marcos Vinicius Martins,Impressora Laser,2008,Eletrônicos,2000.0,3,6000.0,Pix,João Miguel Rezende,Centro-Oeste,Pendente
+26/07/2024,0389,840,Isabella Lima,Smartphone XYZ,2001,Eletrônicos,1200.0,3,3600.0,Pix,João Guilherme Silva,Nordeste,Concluída
+12/07/2024,0390,783,Ana Luiza Ribeiro,Laptop ABC,2002,Eletrônicos,3500.0,4,14000.0,Pix,Sr. João Lucas Lopes,Nordeste,Cancelada
+09/06/2024,0391,802,Miguel das Neves,Teclado RGB,2005,Acessórios,300.0,1,300.0,Pix,Srta. Alexia Ferreira,Centro-Oeste,Pendente
+02/08/2024,0392,326,Maria Luiza Peixoto,Smartwatch DEF,2004,Eletrônicos,800.0,2,1600.0,Transferência,Davi Lucas da Paz,Nordeste,Cancelada
+08/05/2024,0393,865,João Miguel Farias,Fone Bluetooth,2006,Acessórios,250.0,4,1000.0,Transferência,Maria Clara Mendes,Sul,Pendente
+09/04/2024,0394,945,Rebeca Rodrigues,Smartwatch DEF,2004,Eletrônicos,800.0,2,1600.0,Cartão,Bárbara Moraes,Sul,Cancelada
+06/03/2024,0395,640,Thiago Viana,Fone Bluetooth,2006,Acessórios,250.0,1,250.0,Cartão,Carolina Viana,Norte,Pendente
+06/09/2024,0396,617,Luiz Miguel Azevedo,Smartwatch DEF,2004,Eletrônicos,800.0,5,4000.0,Dinheiro,Raul Barros,Nordeste,Cancelada
+23/10/2024,0397,974,Juan Cunha,Impressora Laser,2008,Eletrônicos,2000.0,1,2000.0,Dinheiro,Daniela Campos,Sul,Cancelada
+01/10/2024,0398,193,André da Rosa,Impressora Laser,2008,Eletrônicos,2000.0,1,2000.0,Transferência,Laís Moura,Nordeste,Pendente
+24/01/2024,0399,525,Maysa Rocha,Impressora Laser,2008,Eletrônicos,2000.0,5,10000.0,Cartão,Luiza Aragão,Sul,Cancelada
+03/01/2024,0400,788,Maria Clara Oliveira,Teclado RGB,2005,Acessórios,300.0,1,300.0,Transferência,Anthony Souza,Centro-Oeste,Concluída
+07/10/2024,0401,863,Luiz Otávio Gomes,Smartwatch DEF,2004,Eletrônicos,800.0,5,4000.0,Cartão,Luiz Fernando Pinto,Norte,Cancelada
+09/11/2024,0402,452,Calebe Castro,Laptop ABC,2002,Eletrônicos,3500.0,5,17500.0,Cartão,Brenda Duarte,Norte,Cancelada
+15/03/2024,0403,132,Marcela Fernandes,Teclado RGB,2005,Acessórios,300.0,4,1200.0,Dinheiro,Dr. João Vitor Cardoso,Nordeste,Pendente
+24/05/2024,0404,846,Laís Farias,Monitor HD,2007,Eletrônicos,1000.0,3,3000.0,Transferência,Srta. Fernanda Cardoso,Sudeste,Cancelada
+10/09/2024,0405,484,Sophie Azevedo,Laptop ABC,2002,Eletrônicos,3500.0,5,17500.0,Dinheiro,João Nascimento,Centro-Oeste,Concluída
+26/05/2024,0406,282,Lorena Caldeira,Monitor HD,2007,Eletrônicos,1000.0,5,5000.0,Dinheiro,Alana da Cunha,Nordeste,Concluída
+02/02/2024,0407,874,Larissa Melo,Smartphone XYZ,2001,Eletrônicos,1200.0,3,3600.0,Transferência,Ana Luiza Souza,Sul,Cancelada
+17/01/2024,0408,644,Enrico Ribeiro,Monitor HD,2007,Eletrônicos,1000.0,2,2000.0,Dinheiro,Augusto Cardoso,Sudeste,Cancelada
+22/09/2024,0409,258,Marcelo Azevedo,Teclado RGB,2005,Acessórios,300.0,2,600.0,Cartão,Ian Aragão,Norte,Pendente
+21/03/2024,0410,529,Bianca Novaes,Smartphone XYZ,2001,Eletrônicos,1200.0,2,2400.0,Dinheiro,Heitor da Cruz,Norte,Concluída
+07/08/2024,0411,708,Miguel Nogueira,Smartphone XYZ,2001,Eletrônicos,1200.0,4,4800.0,Cartão,Maria Cecília Melo,Nordeste,Pendente
+29/05/2024,0412,145,Srta. Vitória Cardoso,Monitor HD,2007,Eletrônicos,1000.0,4,4000.0,Dinheiro,Sofia Monteiro,Sul,Concluída
+21/01/2024,0413,872,Leandro Dias,Smartphone XYZ,2001,Eletrônicos,1200.0,2,2400.0,Pix,Joaquim Novaes,Nordeste,Pendente
+27/10/2024,0414,689,Sr. Pedro Miguel Fogaça,Fone Bluetooth,2006,Acessórios,250.0,5,1250.0,Pix,Luiza Dias,Nordeste,Cancelada
+18/05/2024,0415,997,Isis Pinto,Mouse Wireless,2003,Acessórios,150.0,5,750.0,Dinheiro,Rodrigo Nascimento,Sudeste,Cancelada
+03/02/2024,0416,381,Evelyn Farias,Smartphone XYZ,2001,Eletrônicos,1200.0,5,6000.0,Dinheiro,Srta. Ana Júlia Fogaça,Sudeste,Pendente
+29/02/2024,0417,607,Raquel da Costa,Smartphone XYZ,2001,Eletrônicos,1200.0,3,3600.0,Transferência,Sra. Gabrielly Moreira,Sul,Cancelada
+11/02/2024,0418,813,Alexandre Lima,Monitor HD,2007,Eletrônicos,1000.0,4,4000.0,Dinheiro,Isabelly Fogaça,Centro-Oeste,Cancelada
+09/02/2024,0419,288,Bryan da Mata,Impressora Laser,2008,Eletrônicos,2000.0,2,4000.0,Dinheiro,Lavínia Silva,Centro-Oeste,Pendente
+07/06/2024,0420,247,Antônio Carvalho,Impressora Laser,2008,Eletrônicos,2000.0,1,2000.0,Transferência,Sr. Noah Martins,Sudeste,Pendente
+29/05/2024,0421,642,Gustavo Oliveira,Mouse Wireless,2003,Acessórios,150.0,4,600.0,Dinheiro,Stephany Cardoso,Centro-Oeste,Concluída
+08/10/2024,0422,438,Elisa Silveira,Laptop ABC,2002,Eletrônicos,3500.0,4,14000.0,Pix,Rodrigo Nascimento,Norte,Pendente
+06/03/2024,0423,841,Gabriel Jesus,Smartwatch DEF,2004,Eletrônicos,800.0,1,800.0,Pix,Luiz Felipe da Conceição,Sudeste,Pendente
+25/01/2024,0424,719,Leandro Freitas,Smartphone XYZ,2001,Eletrônicos,1200.0,1,1200.0,Dinheiro,Fernanda Rocha,Sul,Pendente
+30/10/2024,0425,787,João Guilherme Fernandes,Smartwatch DEF,2004,Eletrônicos,800.0,4,3200.0,Dinheiro,Thiago Sales,Centro-Oeste,Cancelada
+18/08/2024,0426,115,Catarina Ramos,Smartwatch DEF,2004,Eletrônicos,800.0,2,1600.0,Cartão,Daniel Jesus,Sudeste,Concluída
+03/01/2024,0427,812,Helena Nascimento,Smartwatch DEF,2004,Eletrônicos,800.0,4,3200.0,Dinheiro,Dr. Isaac Pinto,Sul,Cancelada
+12/11/2024,0428,894,Maria Vitória Cunha,Teclado RGB,2005,Acessórios,300.0,4,1200.0,Transferência,Igor da Paz,Sul,Pendente
+05/07/2024,0429,467,Sr. João Vitor Lopes,Teclado RGB,2005,Acessórios,300.0,3,900.0,Pix,Vicente Rodrigues,Sul,Cancelada
+11/08/2024,0430,577,Igor Nascimento,Laptop ABC,2002,Eletrônicos,3500.0,4,14000.0,Pix,Yuri Novaes,Nordeste,Cancelada
+21/05/2024,0431,420,Miguel da Paz,Monitor HD,2007,Eletrônicos,1000.0,1,1000.0,Dinheiro,Maria Cecília da Mata,Nordeste,Concluída
+21/09/2024,0432,367,Alice Rezende,Monitor HD,2007,Eletrônicos,1000.0,3,3000.0,Dinheiro,Srta. Laura Gonçalves,Nordeste,Cancelada
+18/11/2024,0433,335,Srta. Vitória Oliveira,Monitor HD,2007,Eletrônicos,1000.0,5,5000.0,Dinheiro,Luna Cunha,Sudeste,Pendente
+02/09/2024,0434,770,Erick Fernandes,Fone Bluetooth,2006,Acessórios,250.0,3,750.0,Transferência,Brenda Pereira,Sudeste,Cancelada
+02/11/2024,0435,272,Ana Julia Porto,Fone Bluetooth,2006,Acessórios,250.0,2,500.0,Dinheiro,Luana Nunes,Sul,Cancelada
+26/07/2024,0436,288,Olivia Peixoto,Smartphone XYZ,2001,Eletrônicos,1200.0,5,6000.0,Cartão,Alícia Moreira,Norte,Pendente
+29/09/2024,0437,149,Maria Vitória Cardoso,Smartphone XYZ,2001,Eletrônicos,1200.0,4,4800.0,Dinheiro,Vitor Farias,Nordeste,Concluída
+12/09/2024,0438,824,Isabella da Cunha,Mouse Wireless,2003,Acessórios,150.0,1,150.0,Dinheiro,Mariana Barbosa,Sul,Cancelada
+06/08/2024,0439,482,Nicole Nunes,Smartphone XYZ,2001,Eletrônicos,1200.0,5,6000.0,Transferência,Dr. Calebe Alves,Sudeste,Concluída
+08/02/2024,0440,106,Enzo Gabriel Silva,Monitor HD,2007,Eletrônicos,1000.0,1,1000.0,Cartão,Dra. Maria Eduarda das Neves,Sul,Pendente
+22/06/2024,0441,381,Dr. Lucas Gabriel Santos,Teclado RGB,2005,Acessórios,300.0,1,300.0,Transferência,João Felipe Araújo,Nordeste,Concluída
+06/07/2024,0442,198,Gustavo Peixoto,Mouse Wireless,2003,Acessórios,150.0,2,300.0,Dinheiro,Carlos Eduardo da Conceição,Sul,Pendente
+15/05/2024,0443,358,Joaquim Ramos,Fone Bluetooth,2006,Acessórios,250.0,3,750.0,Transferência,Luiz Henrique Rocha,Norte,Cancelada
+15/05/2024,0444,515,Ana Luiza Pires,Impressora Laser,2008,Eletrônicos,2000.0,5,10000.0,Dinheiro,Dra. Lavínia Lopes,Nordeste,Cancelada
+27/01/2024,0445,800,Augusto Correia,Laptop ABC,2002,Eletrônicos,3500.0,1,3500.0,Cartão,Joaquim Cavalcanti,Sudeste,Cancelada
+19/09/2024,0446,486,Vicente Farias,Impressora Laser,2008,Eletrônicos,2000.0,1,2000.0,Cartão,Camila Vieira,Nordeste,Concluída
+03/03/2024,0447,611,Dr. Lucas Gabriel Dias,Monitor HD,2007,Eletrônicos,1000.0,3,3000.0,Cartão,Marina da Mata,Sul,Concluída
+13/03/2024,0448,335,Mirella Pinto,Smartwatch DEF,2004,Eletrônicos,800.0,5,4000.0,Transferência,Alice da Paz,Centro-Oeste,Concluída
+23/06/2024,0449,176,Lara Nogueira,Teclado RGB,2005,Acessórios,300.0,5,1500.0,Cartão,Thales da Rosa,Nordeste,Cancelada
+20/03/2024,0450,116,Vitor Gabriel Campos,Smartwatch DEF,2004,Eletrônicos,800.0,5,4000.0,Dinheiro,Ana Lívia Teixeira,Sudeste,Concluída
+13/03/2024,0451,406,Dr. Eduardo Ramos,Mouse Wireless,2003,Acessórios,150.0,5,750.0,Dinheiro,Francisco Rodrigues,Sul,Cancelada
+23/07/2024,0452,793,Gabrielly Nogueira,Fone Bluetooth,2006,Acessórios,250.0,4,1000.0,Dinheiro,Julia Correia,Norte,Pendente
+15/05/2024,0453,863,Dr. Pedro Henrique da Luz,Fone Bluetooth,2006,Acessórios,250.0,1,250.0,Cartão,Rafaela Jesus,Sudeste,Concluída
+26/08/2024,0454,958,Ana Júlia Cunha,Laptop ABC,2002,Eletrônicos,3500.0,3,10500.0,Transferência,Sr. Erick Lima,Centro-Oeste,Concluída
+15/02/2024,0455,749,João Lucas da Conceição,Teclado RGB,2005,Acessórios,300.0,4,1200.0,Transferência,Joana Peixoto,Nordeste,Cancelada
+19/08/2024,0456,666,Murilo Nogueira,Monitor HD,2007,Eletrônicos,1000.0,4,4000.0,Dinheiro,Carolina Rodrigues,Sul,Pendente
+03/09/2024,0457,489,Olivia da Luz,Laptop ABC,2002,Eletrônicos,3500.0,5,17500.0,Pix,Bárbara Rodrigues,Nordeste,Pendente
+22/04/2024,0458,175,Diego Lopes,Laptop ABC,2002,Eletrônicos,3500.0,3,10500.0,Dinheiro,Mariane Barros,Sudeste,Pendente
+19/05/2024,0459,902,Luigi Cunha,Mouse Wireless,2003,Acessórios,150.0,4,600.0,Pix,João Pedro Santos,Centro-Oeste,Concluída
+10/09/2024,0460,193,Júlia Rodrigues,Smartphone XYZ,2001,Eletrônicos,1200.0,3,3600.0,Transferência,Rafaela Pires,Centro-Oeste,Cancelada
+08/07/2024,0461,204,Bruno Araújo,Mouse Wireless,2003,Acessórios,150.0,1,150.0,Dinheiro,Gustavo Azevedo,Sudeste,Cancelada
+16/04/2024,0462,670,Luiz Otávio Gomes,Monitor HD,2007,Eletrônicos,1000.0,1,1000.0,Cartão,Yago Ramos,Norte,Cancelada
+07/08/2024,0463,667,Sra. Maria Clara Silva,Laptop ABC,2002,Eletrônicos,3500.0,5,17500.0,Pix,Murilo Correia,Sudeste,Concluída
+14/04/2024,0464,398,Isabelly Viana,Monitor HD,2007,Eletrônicos,1000.0,4,4000.0,Cartão,Vitor Hugo Pires,Sul,Concluída
+31/07/2024,0465,685,Kevin Cavalcanti,Mouse Wireless,2003,Acessórios,150.0,4,600.0,Dinheiro,Dra. Sophia Farias,Nordeste,Cancelada
+25/04/2024,0466,408,Levi Ferreira,Teclado RGB,2005,Acessórios,300.0,4,1200.0,Dinheiro,Sr. Leonardo Costa,Norte,Concluída
+28/10/2024,0467,545,Emanuel Monteiro,Teclado RGB,2005,Acessórios,300.0,4,1200.0,Pix,Dra. Marina Pereira,Sudeste,Concluída
+05/03/2024,0468,469,Beatriz da Rocha,Teclado RGB,2005,Acessórios,300.0,2,600.0,Transferência,Benício Monteiro,Sul,Pendente
+25/07/2024,0469,300,Noah Teixeira,Impressora Laser,2008,Eletrônicos,2000.0,1,2000.0,Dinheiro,Igor Gonçalves,Centro-Oeste,Concluída
+22/04/2024,0470,505,Emanuelly Silva,Fone Bluetooth,2006,Acessórios,250.0,5,1250.0,Transferência,Ana Luiza Cunha,Centro-Oeste,Cancelada
+18/10/2024,0471,442,Ana Carolina Freitas,Monitor HD,2007,Eletrônicos,1000.0,5,5000.0,Dinheiro,Ana Costela,Centro-Oeste,Cancelada
+06/04/2024,0472,717,Theo Martins,Smartwatch DEF,2004,Eletrônicos,800.0,4,3200.0,Pix,Vitor Hugo Novaes,Nordeste,Cancelada
+09/07/2024,0473,426,Murilo Fogaça,Teclado RGB,2005,Acessórios,300.0,4,1200.0,Dinheiro,Kamilly Nascimento,Centro-Oeste,Cancelada
+24/06/2024,0474,387,Pedro Miguel Carvalho,Monitor HD,2007,Eletrônicos,1000.0,3,3000.0,Cartão,Maitê Freitas,Sul,Concluída
+26/09/2024,0475,706,Dr. Luigi Martins,Mouse Wireless,2003,Acessórios,150.0,5,750.0,Cartão,Agatha Carvalho,Sudeste,Pendente
+10/10/2024,0476,314,Maysa Moraes,Impressora Laser,2008,Eletrônicos,2000.0,3,6000.0,Cartão,Luiz Otávio Novaes,Sudeste,Pendente
+25/03/2024,0477,611,Clara Sales,Mouse Wireless,2003,Acessórios,150.0,3,450.0,Dinheiro,Igor Gomes,Centro-Oeste,Pendente
+11/05/2024,0478,257,Maria Julia Costela,Monitor HD,2007,Eletrônicos,1000.0,4,4000.0,Cartão,Luiza Mendes,Sudeste,Pendente
+22/09/2024,0479,590,Augusto Castro,Monitor HD,2007,Eletrônicos,1000.0,5,5000.0,Transferência,Valentina Ramos,Sul,Concluída
+07/01/2024,0480,909,Davi Lucca Pires,Fone Bluetooth,2006,Acessórios,250.0,5,1250.0,Cartão,Agatha Pereira,Norte,Concluída
+19/03/2024,0481,773,Srta. Milena Jesus,Fone Bluetooth,2006,Acessórios,250.0,2,500.0,Cartão,Guilherme Carvalho,Sul,Pendente
+11/09/2024,0482,793,Dr. Bruno Moura,Monitor HD,2007,Eletrônicos,1000.0,3,3000.0,Transferência,Milena da Cunha,Norte,Concluída
+21/01/2024,0483,200,Marina Lima,Teclado RGB,2005,Acessórios,300.0,2,600.0,Dinheiro,Dra. Sophia Dias,Sudeste,Cancelada
+15/06/2024,0484,500,Ana Laura Castro,Impressora Laser,2008,Eletrônicos,2000.0,5,10000.0,Dinheiro,Enrico Rocha,Centro-Oeste,Concluída
+31/01/2024,0485,594,Nicolas das Neves,Laptop ABC,2002,Eletrônicos,3500.0,3,10500.0,Transferência,Nina Pires,Norte,Concluída
+04/01/2024,0486,951,Samuel Mendes,Mouse Wireless,2003,Acessórios,150.0,3,450.0,Pix,Kevin Costela,Centro-Oeste,Cancelada
+04/07/2024,0487,903,Enzo Nogueira,Smartwatch DEF,2004,Eletrônicos,800.0,5,4000.0,Transferência,Thomas Cavalcanti,Centro-Oeste,Cancelada
+10/02/2024,0488,199,Dr. Heitor Cunha,Impressora Laser,2008,Eletrônicos,2000.0,4,8000.0,Pix,Stephany Cunha,Norte,Cancelada
+06/09/2024,0489,145,Bianca Campos,Laptop ABC,2002,Eletrônicos,3500.0,1,3500.0,Pix,Maria Fernanda Alves,Norte,Pendente
+25/08/2024,0490,919,Bárbara Pires,Mouse Wireless,2003,Acessórios,150.0,2,300.0,Dinheiro,Sr. Pedro Lucas da Costa,Sul,Concluída
+08/06/2024,0491,438,Nina Pires,Monitor HD,2007,Eletrônicos,1000.0,4,4000.0,Dinheiro,Bryan Castro,Sudeste,Pendente
+24/02/2024,0492,288,Nicolas Nogueira,Mouse Wireless,2003,Acessórios,150.0,4,600.0,Transferência,Dr. Ian Cunha,Norte,Pendente
+06/04/2024,0493,728,Pedro Cardoso,Smartwatch DEF,2004,Eletrônicos,800.0,4,3200.0,Transferência,Marcos Vinicius Gomes,Sudeste,Concluída
+29/10/2024,0494,821,Srta. Mirella Jesus,Smartwatch DEF,2004,Eletrônicos,800.0,2,1600.0,Pix,Luiz Henrique Silva,Norte,Pendente
+14/03/2024,0495,204,Sra. Evelyn Barros,Mouse Wireless,2003,Acessórios,150.0,3,450.0,Pix,Luiz Felipe Nogueira,Nordeste,Cancelada
+13/02/2024,0496,216,Luiz Felipe Cardoso,Teclado RGB,2005,Acessórios,300.0,4,1200.0,Pix,Alana Moreira,Sul,Cancelada
+02/05/2024,0497,725,João Pedro Peixoto,Monitor HD,2007,Eletrônicos,1000.0,5,5000.0,Cartão,Sr. Vitor Hugo Ribeiro,Centro-Oeste,Cancelada
+26/10/2024,0498,965,Anthony Campos,Impressora Laser,2008,Eletrônicos,2000.0,5,10000.0,Dinheiro,Francisco da Rosa,Centro-Oeste,Pendente
+16/01/2024,0499,704,João Vitor Santos,Laptop ABC,2002,Eletrônicos,3500.0,2,7000.0,Pix,Pedro Lucas Santos,Norte,Concluída
+24/10/2024,0500,412,Lara Nunes,Laptop ABC,2002,Eletrônicos,3500.0,2,7000.0,Pix,Pedro Miguel Teixeira,Nordeste,Pendente
+27/07/2024,0501,497,Brenda Freitas,Monitor HD,2007,Eletrônicos,1000.0,5,5000.0,Dinheiro,Henrique Cardoso,Sul,Cancelada
+17/07/2024,0502,533,Davi Lucas Teixeira,Mouse Wireless,2003,Acessórios,150.0,4,600.0,Dinheiro,Dr. Nicolas Campos,Sul,Concluída
+30/04/2024,0503,601,Sra. Sabrina Duarte,Teclado RGB,2005,Acessórios,300.0,2,600.0,Dinheiro,Felipe Carvalho,Centro-Oeste,Cancelada
+17/06/2024,0504,734,Lorenzo Caldeira,Smartphone XYZ,2001,Eletrônicos,1200.0,3,3600.0,Cartão,Raul da Luz,Sudeste,Concluída
+16/02/2024,0505,299,Thales Cunha,Monitor HD,2007,Eletrônicos,1000.0,5,5000.0,Transferência,Srta. Bruna Sales,Sudeste,Pendente
+14/05/2024,0506,603,Manuela Ferreira,Monitor HD,2007,Eletrônicos,1000.0,4,4000.0,Transferência,João Lucas Costela,Nordeste,Concluída
+18/10/2024,0507,678,Thomas Costa,Smartphone XYZ,2001,Eletrônicos,1200.0,2,2400.0,Pix,Isaac Pereira,Norte,Cancelada
+15/04/2024,0508,330,Ana Clara Ferreira,Teclado RGB,2005,Acessórios,300.0,2,600.0,Transferência,Dra. Marina Cardoso,Sul,Pendente
+11/07/2024,0509,891,Maitê Moreira,Impressora Laser,2008,Eletrônicos,2000.0,5,10000.0,Cartão,Luiz Felipe da Cunha,Sul,Concluída
+22/05/2024,0510,374,Fernando Cavalcanti,Fone Bluetooth,2006,Acessórios,250.0,5,1250.0,Cartão,Nicole Correia,Sudeste,Pendente
+29/03/2024,0511,323,Dra. Agatha Barbosa,Monitor HD,2007,Eletrônicos,1000.0,1,1000.0,Dinheiro,Felipe Barbosa,Centro-Oeste,Concluída
+02/07/2024,0512,560,Dr. Davi Lucas da Luz,Teclado RGB,2005,Acessórios,300.0,3,900.0,Cartão,Marcos Vinicius Peixoto,Sudeste,Concluída
+28/03/2024,0513,894,Sr. Kaique Lopes,Smartwatch DEF,2004,Eletrônicos,800.0,2,1600.0,Pix,Breno Moura,Sul,Pendente
+16/02/2024,0514,538,Nicole Barros,Mouse Wireless,2003,Acessórios,150.0,5,750.0,Dinheiro,Enzo Gabriel Silveira,Nordeste,Concluída
+18/01/2024,0515,924,Ana Clara Rezende,Smartphone XYZ,2001,Eletrônicos,1200.0,5,6000.0,Pix,Yago Lima,Sul,Cancelada
+07/05/2024,0516,711,Marcos Vinicius Ramos,Mouse Wireless,2003,Acessórios,150.0,3,450.0,Pix,João Lucas da Paz,Centro-Oeste,Pendente
+23/04/2024,0517,373,Valentina Jesus,Laptop ABC,2002,Eletrônicos,3500.0,2,7000.0,Transferência,Dra. Elisa Rezende,Norte,Cancelada
+23/05/2024,0518,987,Luna da Paz,Mouse Wireless,2003,Acessórios,150.0,2,300.0,Dinheiro,Dra. Sophie Farias,Nordeste,Pendente
+28/02/2024,0519,429,Juan Araújo,Smartwatch DEF,2004,Eletrônicos,800.0,4,3200.0,Transferência,Marcelo Monteiro,Nordeste,Pendente
+03/09/2024,0520,747,Srta. Helena Almeida,Teclado RGB,2005,Acessórios,300.0,4,1200.0,Transferência,Isis Lima,Sudeste,Concluída
+10/02/2024,0521,748,Luiz Miguel Duarte,Laptop ABC,2002,Eletrônicos,3500.0,4,14000.0,Pix,Luiza Caldeira,Centro-Oeste,Cancelada
+25/02/2024,0522,599,Sra. Ana Laura Barbosa,Fone Bluetooth,2006,Acessórios,250.0,5,1250.0,Cartão,Luiz Henrique Oliveira,Norte,Pendente
+29/09/2024,0523,569,Dr. Vinicius Cardoso,Fone Bluetooth,2006,Acessórios,250.0,1,250.0,Transferência,Ana Luiza Santos,Nordeste,Cancelada
+21/02/2024,0524,944,Julia Cardoso,Smartwatch DEF,2004,Eletrônicos,800.0,4,3200.0,Pix,Maria Fernanda Caldeira,Centro-Oeste,Cancelada
+17/06/2024,0525,445,Ana Duarte,Mouse Wireless,2003,Acessórios,150.0,5,750.0,Transferência,Francisco Lopes,Centro-Oeste,Pendente
+07/11/2024,0526,880,Pietra Martins,Smartphone XYZ,2001,Eletrônicos,1200.0,1,1200.0,Cartão,Dr. Gabriel Dias,Sudeste,Concluída
+30/01/2024,0527,227,Daniel Cavalcanti,Mouse Wireless,2003,Acessórios,150.0,4,600.0,Transferência,Calebe da Cunha,Norte,Cancelada
+23/06/2024,0528,307,Gabrielly Oliveira,Mouse Wireless,2003,Acessórios,150.0,3,450.0,Dinheiro,Luiz Otávio Moraes,Centro-Oeste,Concluída
+26/10/2024,0529,770,Levi Lima,Fone Bluetooth,2006,Acessórios,250.0,3,750.0,Cartão,Emanuella Costa,Centro-Oeste,Pendente
+05/02/2024,0530,764,Rodrigo Jesus,Mouse Wireless,2003,Acessórios,150.0,1,150.0,Transferência,Dra. Maria Barbosa,Centro-Oeste,Pendente
+24/03/2024,0531,816,Sr. Bryan Farias,Smartwatch DEF,2004,Eletrônicos,800.0,4,3200.0,Cartão,Dr. Luiz Gustavo Barros,Norte,Concluída
+19/09/2024,0532,318,Francisco da Luz,Impressora Laser,2008,Eletrônicos,2000.0,1,2000.0,Dinheiro,João Porto,Sul,Concluída
+03/08/2024,0533,631,Dra. Elisa Castro,Impressora Laser,2008,Eletrônicos,2000.0,1,2000.0,Cartão,Ana Lívia Cunha,Centro-Oeste,Concluída
+17/02/2024,0534,980,Benício das Neves,Monitor HD,2007,Eletrônicos,1000.0,2,2000.0,Transferência,Eduardo Nunes,Norte,Concluída
+24/05/2024,0535,492,Marina Cardoso,Laptop ABC,2002,Eletrônicos,3500.0,1,3500.0,Cartão,Maria Sophia Ferreira,Centro-Oeste,Cancelada
+11/11/2024,0536,406,Anthony Campos,Mouse Wireless,2003,Acessórios,150.0,4,600.0,Dinheiro,Pedro Pires,Nordeste,Concluída
+10/11/2024,0537,643,Bryan Melo,Smartphone XYZ,2001,Eletrônicos,1200.0,5,6000.0,Dinheiro,Augusto Rezende,Sudeste,Cancelada
+20/01/2024,0538,839,Murilo Pinto,Smartwatch DEF,2004,Eletrônicos,800.0,2,1600.0,Transferência,Sra. Luna Araújo,Sul,Pendente
+28/05/2024,0539,553,Lara da Luz,Smartwatch DEF,2004,Eletrônicos,800.0,1,800.0,Cartão,Sr. Diego Freitas,Nordeste,Concluída
+18/04/2024,0540,703,Brenda Azevedo,Monitor HD,2007,Eletrônicos,1000.0,3,3000.0,Transferência,Mariane Farias,Centro-Oeste,Concluída
+08/09/2024,0541,353,Luiz Felipe Oliveira,Teclado RGB,2005,Acessórios,300.0,1,300.0,Dinheiro,Luana Caldeira,Sul,Pendente
+04/02/2024,0542,714,João Pedro Cunha,Teclado RGB,2005,Acessórios,300.0,1,300.0,Pix,Catarina Souza,Nordeste,Pendente
+06/04/2024,0543,721,Yasmin Viana,Smartwatch DEF,2004,Eletrônicos,800.0,4,3200.0,Pix,João Miguel Moraes,Norte,Concluída
+05/07/2024,0544,606,Valentina Rodrigues,Monitor HD,2007,Eletrônicos,1000.0,1,1000.0,Dinheiro,Dr. João Pedro Fogaça,Sudeste,Pendente
+10/03/2024,0545,708,Ian das Neves,Laptop ABC,2002,Eletrônicos,3500.0,5,17500.0,Cartão,Yago Freitas,Centro-Oeste,Cancelada
+23/01/2024,0546,235,Marcela Moraes,Monitor HD,2007,Eletrônicos,1000.0,5,5000.0,Transferência,Daniela da Cruz,Centro-Oeste,Pendente
+08/02/2024,0547,799,Rafael Duarte,Mouse Wireless,2003,Acessórios,150.0,4,600.0,Cartão,Luiz Otávio Caldeira,Norte,Pendente
+23/10/2024,0548,169,Murilo Nogueira,Smartphone XYZ,2001,Eletrônicos,1200.0,3,3600.0,Dinheiro,Sr. Davi Duarte,Norte,Concluída
+18/08/2024,0549,908,Dr. Nicolas Araújo,Monitor HD,2007,Eletrônicos,1000.0,5,5000.0,Pix,Dra. Isabella da Conceição,Sul,Cancelada
+06/08/2024,0550,533,Luiz Felipe Viana,Monitor HD,2007,Eletrônicos,1000.0,1,1000.0,Dinheiro,Davi Rodrigues,Centro-Oeste,Concluída
+15/01/2024,0551,417,Benício Dias,Laptop ABC,2002,Eletrônicos,3500.0,5,17500.0,Dinheiro,Clarice Aragão,Nordeste,Pendente
+23/07/2024,0552,434,Agatha Melo,Monitor HD,2007,Eletrônicos,1000.0,5,5000.0,Cartão,Catarina Costela,Centro-Oeste,Pendente
+12/05/2024,0553,547,Srta. Yasmin Martins,Smartwatch DEF,2004,Eletrônicos,800.0,1,800.0,Dinheiro,Anthony da Conceição,Norte,Cancelada
+15/08/2024,0554,218,Srta. Stephany Correia,Impressora Laser,2008,Eletrônicos,2000.0,5,10000.0,Cartão,Isabelly Cardoso,Centro-Oeste,Pendente
+25/05/2024,0555,859,Dra. Julia Castro,Mouse Wireless,2003,Acessórios,150.0,1,150.0,Cartão,Dr. Igor Cunha,Nordeste,Pendente
+02/03/2024,0556,111,Sra. Vitória Rodrigues,Mouse Wireless,2003,Acessórios,150.0,4,600.0,Pix,Gabrielly da Luz,Sul,Pendente
+01/10/2024,0557,901,Olivia Moraes,Teclado RGB,2005,Acessórios,300.0,2,600.0,Pix,Raul da Luz,Nordeste,Pendente
+26/05/2024,0558,899,Thomas Gonçalves,Teclado RGB,2005,Acessórios,300.0,1,300.0,Cartão,Davi Almeida,Centro-Oeste,Cancelada
+29/09/2024,0559,378,Julia Azevedo,Laptop ABC,2002,Eletrônicos,3500.0,3,10500.0,Cartão,Otávio Lopes,Sudeste,Cancelada
+10/11/2024,0560,623,Clarice Cavalcanti,Fone Bluetooth,2006,Acessórios,250.0,1,250.0,Transferência,Bianca Melo,Sul,Concluída
+16/10/2024,0561,476,Erick Monteiro,Mouse Wireless,2003,Acessórios,150.0,3,450.0,Cartão,Sr. Pedro Miguel Carvalho,Sul,Pendente
+15/11/2024,0562,840,Dra. Maysa Melo,Laptop ABC,2002,Eletrônicos,3500.0,2,7000.0,Cartão,Alana Ferreira,Norte,Concluída
+22/03/2024,0563,350,Ryan Campos,Smartphone XYZ,2001,Eletrônicos,1200.0,4,4800.0,Pix,Dr. Yuri Cavalcanti,Sudeste,Concluída
+06/10/2024,0564,283,Benjamin Nogueira,Smartphone XYZ,2001,Eletrônicos,1200.0,5,6000.0,Transferência,Sabrina Peixoto,Nordeste,Cancelada
+05/03/2024,0565,354,Luna Nascimento,Monitor HD,2007,Eletrônicos,1000.0,3,3000.0,Pix,Dr. Caio Rocha,Norte,Pendente
+02/11/2024,0566,481,Milena das Neves,Laptop ABC,2002,Eletrônicos,3500.0,5,17500.0,Cartão,Levi Cardoso,Nordeste,Concluída
+06/11/2024,0567,923,Gustavo Aragão,Smartphone XYZ,2001,Eletrônicos,1200.0,4,4800.0,Cartão,Dr. Calebe Cardoso,Sudeste,Cancelada
+12/05/2024,0568,892,João Miguel da Cruz,Teclado RGB,2005,Acessórios,300.0,3,900.0,Cartão,Srta. Maria Clara Carvalho,Sul,Cancelada
+11/05/2024,0569,108,Mariana Rocha,Fone Bluetooth,2006,Acessórios,250.0,2,500.0,Pix,Srta. Larissa da Cunha,Sul,Cancelada
+23/08/2024,0570,857,Bruna Barros,Smartwatch DEF,2004,Eletrônicos,800.0,4,3200.0,Pix,Isaac da Rocha,Sul,Cancelada
+14/03/2024,0571,891,Pietra Vieira,Smartwatch DEF,2004,Eletrônicos,800.0,5,4000.0,Dinheiro,Dra. Maria Cecília Ferreira,Nordeste,Concluída
+13/09/2024,0572,519,Heitor Duarte,Smartphone XYZ,2001,Eletrônicos,1200.0,2,2400.0,Pix,Benjamin Novaes,Norte,Cancelada
+10/08/2024,0573,101,Luiza da Costa,Monitor HD,2007,Eletrônicos,1000.0,3,3000.0,Cartão,João Guilherme Almeida,Nordeste,Pendente
+15/06/2024,0574,343,Gustavo Rocha,Monitor HD,2007,Eletrônicos,1000.0,4,4000.0,Cartão,Caio Araújo,Nordeste,Pendente
+21/03/2024,0575,386,Pedro Miguel Gonçalves,Laptop ABC,2002,Eletrônicos,3500.0,1,3500.0,Dinheiro,Lucas Correia,Sul,Cancelada
+29/04/2024,0576,817,Lorena Rodrigues,Fone Bluetooth,2006,Acessórios,250.0,4,1000.0,Cartão,Emanuella Carvalho,Sul,Concluída
+06/09/2024,0577,617,Joana da Mata,Mouse Wireless,2003,Acessórios,150.0,4,600.0,Cartão,Dr. João Lucas da Mata,Sul,Pendente
+22/06/2024,0578,163,Francisco Pires,Monitor HD,2007,Eletrônicos,1000.0,2,2000.0,Dinheiro,Emanuella das Neves,Centro-Oeste,Cancelada
+21/11/2024,0579,971,Miguel Caldeira,Fone Bluetooth,2006,Acessórios,250.0,4,1000.0,Pix,Vitor Gabriel Castro,Centro-Oeste,Cancelada
+03/02/2024,0580,378,Isabel Viana,Smartwatch DEF,2004,Eletrônicos,800.0,1,800.0,Dinheiro,Sophia Dias,Nordeste,Pendente
+02/08/2024,0581,211,João Pedro Silveira,Mouse Wireless,2003,Acessórios,150.0,1,150.0,Dinheiro,Maria Alice Ribeiro,Sudeste,Cancelada
+10/08/2024,0582,421,Lucas Jesus,Monitor HD,2007,Eletrônicos,1000.0,1,1000.0,Pix,João Vitor Azevedo,Nordeste,Cancelada
+13/07/2024,0583,415,Manuela da Conceição,Impressora Laser,2008,Eletrônicos,2000.0,3,6000.0,Cartão,Vitor Gabriel Porto,Norte,Concluída
+08/03/2024,0584,926,Enrico da Mota,Teclado RGB,2005,Acessórios,300.0,5,1500.0,Cartão,Augusto Pereira,Nordeste,Cancelada
+31/01/2024,0585,251,Larissa da Paz,Laptop ABC,2002,Eletrônicos,3500.0,2,7000.0,Pix,Bianca Ferreira,Sudeste,Pendente
+04/05/2024,0586,150,Srta. Ana Laura Nogueira,Teclado RGB,2005,Acessórios,300.0,3,900.0,Dinheiro,Julia Vieira,Norte,Cancelada
+06/05/2024,0587,975,Luiz Henrique Ramos,Impressora Laser,2008,Eletrônicos,2000.0,5,10000.0,Dinheiro,Yuri Silveira,Norte,Cancelada
+30/10/2024,0588,204,Ana Sophia Peixoto,Mouse Wireless,2003,Acessórios,150.0,1,150.0,Cartão,Danilo Castro,Norte,Concluída
+11/02/2024,0589,233,Stephany Castro,Smartwatch DEF,2004,Eletrônicos,800.0,4,3200.0,Pix,Luiz Otávio Monteiro,Norte,Pendente
+08/06/2024,0590,700,João Pedro Rodrigues,Teclado RGB,2005,Acessórios,300.0,1,300.0,Cartão,Maria Ribeiro,Norte,Concluída
+15/01/2024,0591,761,Guilherme Nunes,Impressora Laser,2008,Eletrônicos,2000.0,2,4000.0,Cartão,Pedro Henrique Nunes,Centro-Oeste,Concluída
+16/01/2024,0592,143,Helena Duarte,Impressora Laser,2008,Eletrônicos,2000.0,1,2000.0,Dinheiro,Vinicius Ribeiro,Sul,Cancelada
+14/04/2024,0593,941,Sr. Joaquim Jesus,Monitor HD,2007,Eletrônicos,1000.0,4,4000.0,Cartão,Guilherme Rodrigues,Sudeste,Pendente
+27/09/2024,0594,536,Ana Luiza Dias,Mouse Wireless,2003,Acessórios,150.0,3,450.0,Dinheiro,Heitor Pires,Nordeste,Cancelada
+27/10/2024,0595,386,Dr. Thomas Peixoto,Impressora Laser,2008,Eletrônicos,2000.0,2,4000.0,Cartão,Melissa Carvalho,Sul,Pendente
+13/03/2024,0596,731,Clara Oliveira,Smartwatch DEF,2004,Eletrônicos,800.0,3,2400.0,Transferência,Sra. Sophie Silveira,Sudeste,Pendente
+25/05/2024,0597,590,Luiz Gustavo da Cruz,Smartphone XYZ,2001,Eletrônicos,1200.0,1,1200.0,Pix,Henrique Santos,Sudeste,Concluída
+05/06/2024,0598,529,Yago Souza,Smartwatch DEF,2004,Eletrônicos,800.0,5,4000.0,Dinheiro,Alice da Luz,Sul,Concluída
+15/03/2024,0599,491,Benício Farias,Fone Bluetooth,2006,Acessórios,250.0,4,1000.0,Transferência,Lorenzo Barros,Centro-Oeste,Pendente
+19/05/2024,0600,614,Srta. Emilly Moura,Fone Bluetooth,2006,Acessórios,250.0,4,1000.0,Pix,Lívia Novaes,Nordeste,Concluída
+03/09/2024,0601,426,Rodrigo Araújo,Smartwatch DEF,2004,Eletrônicos,800.0,1,800.0,Pix,João Lucas Rodrigues,Norte,Cancelada
+18/08/2024,0602,642,Camila Ribeiro,Fone Bluetooth,2006,Acessórios,250.0,5,1250.0,Dinheiro,Maria Clara Monteiro,Nordeste,Concluída
+13/05/2024,0603,353,Francisco Carvalho,Smartwatch DEF,2004,Eletrônicos,800.0,3,2400.0,Cartão,Antônio Nogueira,Nordeste,Pendente
+20/01/2024,0604,966,Murilo da Rosa,Monitor HD,2007,Eletrônicos,1000.0,3,3000.0,Dinheiro,Pedro das Neves,Nordeste,Concluída
+20/09/2024,0605,706,Gabriel Oliveira,Fone Bluetooth,2006,Acessórios,250.0,3,750.0,Cartão,Alexia Alves,Centro-Oeste,Pendente
+03/07/2024,0606,677,Pedro da Luz,Mouse Wireless,2003,Acessórios,150.0,5,750.0,Dinheiro,Yasmin Alves,Sudeste,Pendente
+27/03/2024,0607,416,Otávio Lima,Mouse Wireless,2003,Acessórios,150.0,4,600.0,Cartão,Dra. Melissa Freitas,Norte,Concluída
+13/06/2024,0608,338,Isabel Ramos,Smartwatch DEF,2004,Eletrônicos,800.0,1,800.0,Transferência,Enrico Rezende,Norte,Cancelada
+27/04/2024,0609,728,Manuela Novaes,Smartwatch DEF,2004,Eletrônicos,800.0,2,1600.0,Pix,Ana Lívia Almeida,Nordeste,Cancelada
+17/07/2024,0610,160,Isadora Gomes,Smartphone XYZ,2001,Eletrônicos,1200.0,2,2400.0,Dinheiro,Rodrigo Cavalcanti,Norte,Pendente
+06/07/2024,0611,981,Joaquim Freitas,Fone Bluetooth,2006,Acessórios,250.0,1,250.0,Pix,Giovanna Freitas,Sudeste,Pendente
+11/04/2024,0612,203,Raquel Jesus,Fone Bluetooth,2006,Acessórios,250.0,3,750.0,Pix,Davi Lucas Silveira,Nordeste,Concluída
+24/10/2024,0613,849,Benício Nunes,Monitor HD,2007,Eletrônicos,1000.0,4,4000.0,Pix,Gabrielly Cunha,Nordeste,Pendente
+07/10/2024,0614,675,Pietro Sales,Fone Bluetooth,2006,Acessórios,250.0,2,500.0,Dinheiro,Francisco Peixoto,Sudeste,Cancelada
+06/06/2024,0615,851,Sarah Azevedo,Teclado RGB,2005,Acessórios,300.0,2,600.0,Dinheiro,Rafaela da Mota,Norte,Pendente
+13/05/2024,0616,686,Dra. Clarice Teixeira,Monitor HD,2007,Eletrônicos,1000.0,5,5000.0,Cartão,Valentina Ribeiro,Nordeste,Pendente
+17/09/2024,0617,425,Dr. Davi Luiz da Mata,Smartwatch DEF,2004,Eletrônicos,800.0,5,4000.0,Cartão,Caio Ribeiro,Sudeste,Concluída
+19/02/2024,0618,439,Sra. Rebeca da Mata,Laptop ABC,2002,Eletrônicos,3500.0,2,7000.0,Pix,Helena Carvalho,Centro-Oeste,Concluída
+27/03/2024,0619,751,Sr. Vinicius Lima,Laptop ABC,2002,Eletrônicos,3500.0,3,10500.0,Transferência,Valentina Melo,Norte,Cancelada
+24/05/2024,0620,314,Nathan Gonçalves,Smartwatch DEF,2004,Eletrônicos,800.0,1,800.0,Pix,Ana Vitória Ribeiro,Centro-Oeste,Concluída
+21/01/2024,0621,837,Maria Luiza Cardoso,Smartphone XYZ,2001,Eletrônicos,1200.0,1,1200.0,Transferência,Caroline Santos,Sudeste,Pendente
+16/02/2024,0622,529,Isis Souza,Mouse Wireless,2003,Acessórios,150.0,4,600.0,Transferência,Juan Barros,Sudeste,Cancelada
+28/02/2024,0623,659,Eduardo Mendes,Monitor HD,2007,Eletrônicos,1000.0,1,1000.0,Transferência,Maria Fernanda Ramos,Sul,Pendente
+25/02/2024,0624,876,Sr. Yago Cardoso,Smartwatch DEF,2004,Eletrônicos,800.0,2,1600.0,Transferência,Helena da Luz,Norte,Concluída
+01/05/2024,0625,401,Ana Carolina Almeida,Smartphone XYZ,2001,Eletrônicos,1200.0,3,3600.0,Pix,Emilly da Rocha,Norte,Concluída
+22/10/2024,0626,450,Murilo da Cruz,Mouse Wireless,2003,Acessórios,150.0,4,600.0,Dinheiro,Valentina Carvalho,Norte,Pendente
+20/02/2024,0627,195,Larissa Pereira,Fone Bluetooth,2006,Acessórios,250.0,5,1250.0,Transferência,Lara Rocha,Norte,Cancelada
+28/05/2024,0628,769,Arthur Teixeira,Mouse Wireless,2003,Acessórios,150.0,5,750.0,Transferência,Thomas Moura,Nordeste,Concluída
+06/01/2024,0629,203,Sr. Anthony Almeida,Fone Bluetooth,2006,Acessórios,250.0,2,500.0,Dinheiro,Sabrina Farias,Sudeste,Pendente
+28/03/2024,0630,667,Sra. Gabriela Costela,Teclado RGB,2005,Acessórios,300.0,3,900.0,Pix,João Pedro Santos,Nordeste,Concluída
+16/08/2024,0631,150,Davi Luiz Campos,Monitor HD,2007,Eletrônicos,1000.0,5,5000.0,Transferência,Heitor Gonçalves,Nordeste,Concluída
+26/06/2024,0632,469,Dra. Maria Vitória Souza,Smartphone XYZ,2001,Eletrônicos,1200.0,4,4800.0,Cartão,Dr. Rodrigo Cunha,Centro-Oeste,Pendente
+13/05/2024,0633,740,Isabella da Mota,Impressora Laser,2008,Eletrônicos,2000.0,2,4000.0,Cartão,João Aragão,Norte,Concluída
+29/03/2024,0634,274,Thomas Costela,Teclado RGB,2005,Acessórios,300.0,1,300.0,Transferência,Thomas Aragão,Norte,Cancelada
+17/08/2024,0635,903,Bárbara Costa,Monitor HD,2007,Eletrônicos,1000.0,4,4000.0,Transferência,Sr. João Miguel Fernandes,Centro-Oeste,Concluída
+26/10/2024,0636,757,Mariane Barros,Monitor HD,2007,Eletrônicos,1000.0,2,2000.0,Pix,Ana Beatriz Cavalcanti,Sudeste,Cancelada
+10/09/2024,0637,291,Benjamin Correia,Impressora Laser,2008,Eletrônicos,2000.0,1,2000.0,Pix,Laura Nascimento,Sudeste,Cancelada
+17/02/2024,0638,369,Eloah Ribeiro,Smartwatch DEF,2004,Eletrônicos,800.0,3,2400.0,Cartão,Srta. Cecília Alves,Nordeste,Pendente
+26/04/2024,0639,783,Mirella Castro,Laptop ABC,2002,Eletrônicos,3500.0,1,3500.0,Pix,Manuela Fogaça,Sul,Cancelada
+29/08/2024,0640,874,Pietra Cunha,Smartwatch DEF,2004,Eletrônicos,800.0,5,4000.0,Cartão,Ana Lívia Silva,Sudeste,Pendente
+06/10/2024,0641,528,Ana Vitória Gomes,Impressora Laser,2008,Eletrônicos,2000.0,5,10000.0,Dinheiro,Yuri Cavalcanti,Sudeste,Cancelada
+12/07/2024,0642,180,Otávio da Paz,Monitor HD,2007,Eletrônicos,1000.0,1,1000.0,Dinheiro,Luiz Henrique da Paz,Norte,Cancelada
+19/05/2024,0643,277,Sra. Evelyn da Cruz,Mouse Wireless,2003,Acessórios,150.0,2,300.0,Dinheiro,Marcos Vinicius Sales,Nordeste,Concluída
+21/03/2024,0644,533,Sra. Helena Duarte,Laptop ABC,2002,Eletrônicos,3500.0,4,14000.0,Dinheiro,André Carvalho,Nordeste,Pendente
+12/02/2024,0645,364,Natália Sales,Fone Bluetooth,2006,Acessórios,250.0,1,250.0,Cartão,Bryan Silva,Sudeste,Pendente
+30/01/2024,0646,506,Dra. Ana Luiza Fernandes,Fone Bluetooth,2006,Acessórios,250.0,3,750.0,Transferência,Daniela Ramos,Norte,Pendente
+24/04/2024,0647,738,Lucas Gabriel Barros,Monitor HD,2007,Eletrônicos,1000.0,1,1000.0,Transferência,Davi Barbosa,Nordeste,Concluída
+22/04/2024,0648,680,Dr. Kevin Correia,Laptop ABC,2002,Eletrônicos,3500.0,1,3500.0,Cartão,Vitor Hugo Barbosa,Centro-Oeste,Pendente
+04/01/2024,0649,452,Rafael da Cunha,Monitor HD,2007,Eletrônicos,1000.0,3,3000.0,Transferência,Dr. Leonardo Fogaça,Sudeste,Pendente
+11/10/2024,0650,723,João Lucas Mendes,Impressora Laser,2008,Eletrônicos,2000.0,1,2000.0,Dinheiro,Carlos Eduardo Nunes,Centro-Oeste,Cancelada
+04/06/2024,0651,247,Emanuelly Nogueira,Monitor HD,2007,Eletrônicos,1000.0,1,1000.0,Transferência,Sra. Yasmin Peixoto,Centro-Oeste,Pendente
+08/09/2024,0652,343,Carlos Eduardo Costela,Smartphone XYZ,2001,Eletrônicos,1200.0,4,4800.0,Pix,Dra. Ana Carolina da Cruz,Centro-Oeste,Concluída
+10/02/2024,0653,445,Maria Sophia Rocha,Teclado RGB,2005,Acessórios,300.0,3,900.0,Pix,Nicole Pires,Sudeste,Pendente
+11/03/2024,0654,801,Isis Moraes,Laptop ABC,2002,Eletrônicos,3500.0,2,7000.0,Dinheiro,Alice Costela,Centro-Oeste,Pendente
+06/07/2024,0655,553,Ana Sophia Oliveira,Fone Bluetooth,2006,Acessórios,250.0,3,750.0,Transferência,Amanda Campos,Sul,Pendente
+11/04/2024,0656,191,Gabrielly Alves,Smartwatch DEF,2004,Eletrônicos,800.0,4,3200.0,Dinheiro,Dra. Marcela das Neves,Sudeste,Pendente
+17/09/2024,0657,596,Sr. Leandro Farias,Fone Bluetooth,2006,Acessórios,250.0,1,250.0,Dinheiro,Isabel Nogueira,Norte,Cancelada
+27/02/2024,0658,826,Mariana Barros,Monitor HD,2007,Eletrônicos,1000.0,2,2000.0,Cartão,Pedro da Cruz,Nordeste,Concluída
+15/07/2024,0659,996,Luna da Cunha,Smartwatch DEF,2004,Eletrônicos,800.0,1,800.0,Dinheiro,Vitor Gabriel Rodrigues,Norte,Cancelada
+04/05/2024,0660,151,Isaac Freitas,Fone Bluetooth,2006,Acessórios,250.0,2,500.0,Pix,Luiz Fernando das Neves,Centro-Oeste,Cancelada
+01/08/2024,0661,617,Isis Nunes,Monitor HD,2007,Eletrônicos,1000.0,1,1000.0,Cartão,Bruno Ramos,Nordeste,Cancelada
+21/06/2024,0662,600,Lavínia Carvalho,Impressora Laser,2008,Eletrônicos,2000.0,2,4000.0,Transferência,Lavínia Lopes,Sul,Pendente
+16/02/2024,0663,458,Sofia Aragão,Fone Bluetooth,2006,Acessórios,250.0,2,500.0,Pix,João Oliveira,Norte,Cancelada
+14/01/2024,0664,128,Maria Clara Almeida,Monitor HD,2007,Eletrônicos,1000.0,1,1000.0,Dinheiro,Otávio Jesus,Sul,Concluída
+16/07/2024,0665,977,Cecília Ramos,Smartwatch DEF,2004,Eletrônicos,800.0,2,1600.0,Dinheiro,Dr. Benjamin das Neves,Centro-Oeste,Pendente
+23/11/2024,0666,519,Helena Ribeiro,Smartphone XYZ,2001,Eletrônicos,1200.0,1,1200.0,Transferência,Dra. Isabelly Porto,Nordeste,Pendente
+14/02/2024,0667,277,Vitor Hugo das Neves,Smartphone XYZ,2001,Eletrônicos,1200.0,2,2400.0,Pix,Joaquim Moraes,Sul,Cancelada
+18/11/2024,0668,829,Yasmin Gonçalves,Teclado RGB,2005,Acessórios,300.0,4,1200.0,Transferência,Manuela Moura,Centro-Oeste,Cancelada
+29/09/2024,0669,358,Augusto da Cunha,Smartwatch DEF,2004,Eletrônicos,800.0,4,3200.0,Pix,Beatriz Oliveira,Sul,Pendente
+11/02/2024,0670,506,Paulo da Paz,Laptop ABC,2002,Eletrônicos,3500.0,1,3500.0,Pix,Cauã Novaes,Sul,Pendente
+24/03/2024,0671,708,Valentina da Mota,Teclado RGB,2005,Acessórios,300.0,3,900.0,Cartão,Sra. Ana Lívia Peixoto,Sudeste,Concluída
+19/01/2024,0672,444,Nicole Costa,Teclado RGB,2005,Acessórios,300.0,3,900.0,Pix,Laís Santos,Centro-Oeste,Pendente
+22/02/2024,0673,828,Agatha Souza,Teclado RGB,2005,Acessórios,300.0,2,600.0,Dinheiro,Srta. Maria Clara Pinto,Sul,Concluída
+21/11/2024,0674,158,Luana Silva,Monitor HD,2007,Eletrônicos,1000.0,3,3000.0,Dinheiro,Ryan da Luz,Norte,Pendente
+10/10/2024,0675,609,Calebe Nogueira,Teclado RGB,2005,Acessórios,300.0,3,900.0,Transferência,Maria Vitória Martins,Sudeste,Cancelada
+14/07/2024,0676,854,Kamilly Farias,Smartphone XYZ,2001,Eletrônicos,1200.0,5,6000.0,Dinheiro,João Vitor Mendes,Centro-Oeste,Pendente
+24/04/2024,0677,830,Beatriz Cunha,Smartwatch DEF,2004,Eletrônicos,800.0,5,4000.0,Transferência,Maria Silva,Centro-Oeste,Pendente
+26/04/2024,0678,407,Dra. Gabrielly Vieira,Mouse Wireless,2003,Acessórios,150.0,5,750.0,Dinheiro,Clara da Paz,Centro-Oeste,Concluída
+22/03/2024,0679,582,Raquel Gonçalves,Mouse Wireless,2003,Acessórios,150.0,3,450.0,Dinheiro,Isabel Costela,Centro-Oeste,Pendente
+02/10/2024,0680,191,Camila Santos,Smartwatch DEF,2004,Eletrônicos,800.0,3,2400.0,Dinheiro,Olivia Martins,Centro-Oeste,Cancelada
+02/10/2024,0681,907,Vitor Hugo Moraes,Fone Bluetooth,2006,Acessórios,250.0,3,750.0,Pix,Luana Peixoto,Sul,Cancelada
+18/09/2024,0682,574,Dra. Esther Pereira,Laptop ABC,2002,Eletrônicos,3500.0,4,14000.0,Cartão,Luiz Henrique Cavalcanti,Sul,Pendente
+10/01/2024,0683,735,Bianca Barros,Laptop ABC,2002,Eletrônicos,3500.0,4,14000.0,Dinheiro,Ana Carolina da Paz,Sul,Concluída
+13/04/2024,0684,988,Gustavo Henrique Fernandes,Monitor HD,2007,Eletrônicos,1000.0,5,5000.0,Pix,Benício Gonçalves,Sudeste,Concluída
+20/03/2024,0685,991,Alícia Moraes,Mouse Wireless,2003,Acessórios,150.0,2,300.0,Dinheiro,Ana Lívia das Neves,Centro-Oeste,Cancelada
+15/10/2024,0686,683,Maria Eduarda Nogueira,Impressora Laser,2008,Eletrônicos,2000.0,2,4000.0,Pix,Luiz Gustavo Gomes,Nordeste,Concluída
+26/09/2024,0687,599,Ana Beatriz Nascimento,Fone Bluetooth,2006,Acessórios,250.0,2,500.0,Pix,Kamilly Lopes,Norte,Concluída
+02/08/2024,0688,562,André Fernandes,Teclado RGB,2005,Acessórios,300.0,2,600.0,Dinheiro,Pedro Henrique Pires,Sul,Concluída
+18/11/2024,0689,601,Pedro Miguel Moura,Laptop ABC,2002,Eletrônicos,3500.0,2,7000.0,Transferência,Maria Cecília da Paz,Sudeste,Cancelada
+28/10/2024,0690,539,Srta. Evelyn Porto,Impressora Laser,2008,Eletrônicos,2000.0,4,8000.0,Cartão,Rodrigo Cardoso,Norte,Pendente
+13/03/2024,0691,304,Vicente Silva,Fone Bluetooth,2006,Acessórios,250.0,1,250.0,Pix,João Miguel Barbosa,Sul,Concluída
+15/06/2024,0692,118,Matheus Ferreira,Smartphone XYZ,2001,Eletrônicos,1200.0,2,2400.0,Dinheiro,Davi Lucca Fernandes,Centro-Oeste,Cancelada
+03/01/2024,0693,232,Dr. Thales da Costa,Laptop ABC,2002,Eletrônicos,3500.0,4,14000.0,Pix,Davi Lucas Martins,Nordeste,Concluída
+19/08/2024,0694,943,Yago Jesus,Smartphone XYZ,2001,Eletrônicos,1200.0,3,3600.0,Pix,Vitória Vieira,Sudeste,Pendente
+19/05/2024,0695,632,Yuri Lopes,Fone Bluetooth,2006,Acessórios,250.0,4,1000.0,Dinheiro,Clarice da Mata,Centro-Oeste,Cancelada
+21/07/2024,0696,467,Yuri Santos,Smartwatch DEF,2004,Eletrônicos,800.0,2,1600.0,Transferência,Kaique Viana,Norte,Concluída
+27/07/2024,0697,329,Ana Laura Monteiro,Mouse Wireless,2003,Acessórios,150.0,2,300.0,Cartão,Enrico Melo,Sul,Pendente
+08/05/2024,0698,273,Dr. Enrico Souza,Laptop ABC,2002,Eletrônicos,3500.0,3,10500.0,Cartão,Maria Eduarda Alves,Sudeste,Pendente
+14/02/2024,0699,361,Isabel Porto,Smartphone XYZ,2001,Eletrônicos,1200.0,5,6000.0,Cartão,Pedro Farias,Norte,Pendente
+16/01/2024,0700,956,Giovanna Nascimento,Smartphone XYZ,2001,Eletrônicos,1200.0,1,1200.0,Cartão,João Pedro Fernandes,Sudeste,Cancelada
+28/07/2024,0701,489,Sra. Alice Silveira,Laptop ABC,2002,Eletrônicos,3500.0,5,17500.0,Pix,Dr. Luigi Barbosa,Sudeste,Pendente
+25/04/2024,0702,256,Caroline Martins,Smartwatch DEF,2004,Eletrônicos,800.0,1,800.0,Pix,Ana Júlia Castro,Sudeste,Pendente
+06/03/2024,0703,203,Maria Alice Almeida,Teclado RGB,2005,Acessórios,300.0,5,1500.0,Dinheiro,Ana Clara da Rocha,Sudeste,Concluída
+17/09/2024,0704,623,Stephany da Rosa,Laptop ABC,2002,Eletrônicos,3500.0,3,10500.0,Cartão,Lara Cavalcanti,Norte,Cancelada
+20/03/2024,0705,303,Pietra Pinto,Smartwatch DEF,2004,Eletrônicos,800.0,3,2400.0,Dinheiro,Ana Julia da Costa,Centro-Oeste,Pendente
+10/01/2024,0706,519,Raquel Melo,Teclado RGB,2005,Acessórios,300.0,2,600.0,Cartão,Bryan Cardoso,Sul,Cancelada
+22/01/2024,0707,312,Fernando Cardoso,Impressora Laser,2008,Eletrônicos,2000.0,3,6000.0,Dinheiro,Daniela Ferreira,Norte,Concluída
+07/06/2024,0708,787,Lavínia Nunes,Laptop ABC,2002,Eletrônicos,3500.0,1,3500.0,Transferência,Gabrielly Aragão,Nordeste,Concluída
+31/05/2024,0709,898,Ana Vitória Teixeira,Laptop ABC,2002,Eletrônicos,3500.0,1,3500.0,Pix,Pedro Campos,Nordeste,Cancelada
+20/10/2024,0710,403,Dra. Amanda Cardoso,Teclado RGB,2005,Acessórios,300.0,4,1200.0,Cartão,Sr. Gustavo Jesus,Norte,Concluída
+23/08/2024,0711,995,Gustavo Henrique Pires,Smartphone XYZ,2001,Eletrônicos,1200.0,3,3600.0,Pix,Julia Araújo,Centro-Oeste,Cancelada
+03/07/2024,0712,856,Luiz Otávio das Neves,Laptop ABC,2002,Eletrônicos,3500.0,1,3500.0,Cartão,Vinicius Novaes,Norte,Concluída
+05/11/2024,0713,779,Evelyn da Conceição,Mouse Wireless,2003,Acessórios,150.0,3,450.0,Pix,Renan Moura,Sudeste,Pendente
+05/01/2024,0714,374,Maria Eduarda da Conceição,Laptop ABC,2002,Eletrônicos,3500.0,3,10500.0,Pix,Augusto Almeida,Nordeste,Concluída
+10/08/2024,0715,510,Julia Teixeira,Monitor HD,2007,Eletrônicos,1000.0,4,4000.0,Pix,Ana Júlia Lima,Sudeste,Pendente
+22/03/2024,0716,971,Dra. Rebeca Monteiro,Impressora Laser,2008,Eletrônicos,2000.0,4,8000.0,Dinheiro,Juan Silva,Norte,Concluída
+25/02/2024,0717,812,Diego das Neves,Smartphone XYZ,2001,Eletrônicos,1200.0,2,2400.0,Cartão,Eloah da Mota,Sudeste,Pendente
+14/02/2024,0718,594,Raul Barros,Impressora Laser,2008,Eletrônicos,2000.0,2,4000.0,Transferência,Letícia Vieira,Centro-Oeste,Pendente
+29/01/2024,0719,129,Raul Campos,Mouse Wireless,2003,Acessórios,150.0,4,600.0,Transferência,Caio da Paz,Norte,Cancelada
+08/10/2024,0720,551,Luiza Melo,Smartphone XYZ,2001,Eletrônicos,1200.0,1,1200.0,Pix,Sr. Raul Duarte,Centro-Oeste,Concluída
+08/02/2024,0721,821,Pedro Henrique Campos,Smartwatch DEF,2004,Eletrônicos,800.0,3,2400.0,Cartão,Ian Rodrigues,Sudeste,Pendente
+24/06/2024,0722,844,Dr. Ryan da Costa,Smartwatch DEF,2004,Eletrônicos,800.0,4,3200.0,Pix,Maria Fernanda Moreira,Sudeste,Concluída
+09/11/2024,0723,959,Dr. Davi Luiz Almeida,Smartphone XYZ,2001,Eletrônicos,1200.0,1,1200.0,Dinheiro,Sr. Yuri das Neves,Sul,Cancelada
+03/10/2024,0724,972,Dra. Larissa Freitas,Impressora Laser,2008,Eletrônicos,2000.0,2,4000.0,Cartão,Sr. Renan Melo,Sudeste,Cancelada
+05/07/2024,0725,346,Lavínia Moraes,Fone Bluetooth,2006,Acessórios,250.0,3,750.0,Cartão,Luigi Vieira,Sul,Concluída
+12/02/2024,0726,663,Pedro Cardoso,Monitor HD,2007,Eletrônicos,1000.0,4,4000.0,Dinheiro,Daniel Teixeira,Norte,Cancelada
+17/03/2024,0727,554,Thomas Cardoso,Impressora Laser,2008,Eletrônicos,2000.0,1,2000.0,Transferência,Srta. Alexia Santos,Sudeste,Cancelada
+02/09/2024,0728,221,Nathan Nunes,Impressora Laser,2008,Eletrônicos,2000.0,1,2000.0,Cartão,Clara Azevedo,Sudeste,Cancelada
+02/08/2024,0729,136,Marcelo Viana,Smartphone XYZ,2001,Eletrônicos,1200.0,1,1200.0,Pix,Milena da Costa,Sul,Pendente
+22/05/2024,0730,311,Clarice Gonçalves,Impressora Laser,2008,Eletrônicos,2000.0,3,6000.0,Pix,Lucas Gabriel Santos,Norte,Concluída
+17/07/2024,0731,964,João Vitor Moreira,Impressora Laser,2008,Eletrônicos,2000.0,3,6000.0,Transferência,Alana Duarte,Centro-Oeste,Pendente
+25/11/2024,0732,563,Nina da Cunha,Laptop ABC,2002,Eletrônicos,3500.0,1,3500.0,Dinheiro,Beatriz Porto,Norte,Cancelada
+02/03/2024,0733,463,Miguel da Conceição,Teclado RGB,2005,Acessórios,300.0,5,1500.0,Pix,Dra. Luana Moraes,Norte,Concluída
+16/01/2024,0734,268,Vitor Hugo Rodrigues,Impressora Laser,2008,Eletrônicos,2000.0,2,4000.0,Transferência,Bernardo Ferreira,Norte,Cancelada
+23/05/2024,0735,725,Augusto da Rocha,Smartwatch DEF,2004,Eletrônicos,800.0,2,1600.0,Cartão,Vitória Moreira,Sudeste,Concluída
+30/05/2024,0736,568,Laís Barbosa,Smartwatch DEF,2004,Eletrônicos,800.0,3,2400.0,Cartão,Pietro Martins,Sudeste,Concluída
+10/02/2024,0737,748,Dra. Maysa Freitas,Laptop ABC,2002,Eletrônicos,3500.0,4,14000.0,Transferência,Sra. Maria Luiza Viana,Sul,Pendente
+09/08/2024,0738,237,João Miguel Nascimento,Impressora Laser,2008,Eletrônicos,2000.0,1,2000.0,Cartão,Sr. Luiz Henrique Fernandes,Sul,Cancelada
+26/05/2024,0739,958,Luiz Henrique Nunes,Impressora Laser,2008,Eletrônicos,2000.0,5,10000.0,Dinheiro,Dr. Luigi Rocha,Sul,Concluída
+22/08/2024,0740,848,Luiz Fernando Cunha,Mouse Wireless,2003,Acessórios,150.0,1,150.0,Transferência,Bárbara Dias,Sul,Pendente
+30/01/2024,0741,429,Melissa Freitas,Monitor HD,2007,Eletrônicos,1000.0,4,4000.0,Dinheiro,Davi Lucas da Mata,Centro-Oeste,Cancelada
+02/03/2024,0742,451,Sr. Rafael Dias,Teclado RGB,2005,Acessórios,300.0,4,1200.0,Dinheiro,Helena Correia,Nordeste,Cancelada
+06/07/2024,0743,716,Luana Rocha,Teclado RGB,2005,Acessórios,300.0,5,1500.0,Pix,Nicolas da Cruz,Sul,Pendente
+08/09/2024,0744,322,Alexia Farias,Smartwatch DEF,2004,Eletrônicos,800.0,2,1600.0,Pix,Cauê da Cruz,Centro-Oeste,Pendente
+22/02/2024,0745,235,Maitê Barbosa,Mouse Wireless,2003,Acessórios,150.0,5,750.0,Pix,Bianca Caldeira,Norte,Cancelada
+05/03/2024,0746,675,Diego Silveira,Impressora Laser,2008,Eletrônicos,2000.0,5,10000.0,Transferência,Maria Vitória Aragão,Sul,Cancelada
+06/10/2024,0747,998,Dra. Esther Cardoso,Monitor HD,2007,Eletrônicos,1000.0,1,1000.0,Cartão,Levi Ribeiro,Norte,Cancelada
+06/07/2024,0748,248,Enzo Gabriel Oliveira,Smartphone XYZ,2001,Eletrônicos,1200.0,1,1200.0,Dinheiro,Bianca da Mata,Centro-Oeste,Concluída
+30/08/2024,0749,393,Maitê Ferreira,Teclado RGB,2005,Acessórios,300.0,2,600.0,Cartão,Thiago Mendes,Centro-Oeste,Concluída
+25/06/2024,0750,871,Maria Sophia Campos,Smartphone XYZ,2001,Eletrônicos,1200.0,3,3600.0,Transferência,João Miguel Nogueira,Norte,Pendente
+21/02/2024,0751,988,Anthony da Paz,Smartwatch DEF,2004,Eletrônicos,800.0,5,4000.0,Transferência,Lívia Peixoto,Nordeste,Pendente
+16/11/2024,0752,903,Otávio Castro,Teclado RGB,2005,Acessórios,300.0,1,300.0,Transferência,Lucas Azevedo,Sudeste,Cancelada
+31/10/2024,0753,907,Lívia Costa,Fone Bluetooth,2006,Acessórios,250.0,5,1250.0,Cartão,Lucca Costela,Norte,Pendente
+22/08/2024,0754,357,Agatha Pinto,Smartwatch DEF,2004,Eletrônicos,800.0,5,4000.0,Transferência,Kamilly Moura,Nordeste,Pendente
+17/01/2024,0755,821,Dra. Lara Dias,Fone Bluetooth,2006,Acessórios,250.0,5,1250.0,Dinheiro,Vitória Nascimento,Nordeste,Cancelada
+16/05/2024,0756,559,Yasmin Castro,Mouse Wireless,2003,Acessórios,150.0,1,150.0,Dinheiro,Beatriz Fernandes,Nordeste,Pendente
+04/07/2024,0757,626,Bruno Gomes,Laptop ABC,2002,Eletrônicos,3500.0,4,14000.0,Cartão,Maria Cecília Oliveira,Sudeste,Cancelada
+10/04/2024,0758,669,Alexandre Almeida,Teclado RGB,2005,Acessórios,300.0,2,600.0,Dinheiro,Manuela Costa,Sul,Cancelada
+20/07/2024,0759,105,João Miguel da Rocha,Fone Bluetooth,2006,Acessórios,250.0,4,1000.0,Dinheiro,Sra. Júlia Moreira,Norte,Concluída
+11/02/2024,0760,430,Kevin Fernandes,Smartphone XYZ,2001,Eletrônicos,1200.0,5,6000.0,Pix,Luiz Otávio Pereira,Sudeste,Pendente
+07/08/2024,0761,663,Dr. Rodrigo Novaes,Fone Bluetooth,2006,Acessórios,250.0,1,250.0,Pix,Juan Vieira,Sul,Concluída
+31/10/2024,0762,288,Luana da Luz,Laptop ABC,2002,Eletrônicos,3500.0,5,17500.0,Dinheiro,Dr. Fernando Lima,Sudeste,Pendente
+12/08/2024,0763,649,Dr. Vicente Cunha,Monitor HD,2007,Eletrônicos,1000.0,1,1000.0,Pix,Ana Vitória Dias,Nordeste,Concluída
+22/06/2024,0764,779,Srta. Ana Luiza da Rosa,Fone Bluetooth,2006,Acessórios,250.0,3,750.0,Pix,Juliana Mendes,Centro-Oeste,Concluída
+07/11/2024,0765,870,Mariana Barros,Impressora Laser,2008,Eletrônicos,2000.0,5,10000.0,Cartão,João Pedro Almeida,Norte,Pendente
+08/11/2024,0766,454,Danilo Ribeiro,Impressora Laser,2008,Eletrônicos,2000.0,2,4000.0,Dinheiro,Larissa Carvalho,Norte,Pendente
+25/01/2024,0767,428,Enzo Gabriel Moura,Monitor HD,2007,Eletrônicos,1000.0,1,1000.0,Transferência,Otávio Azevedo,Centro-Oeste,Pendente
+08/10/2024,0768,841,Juliana Silveira,Teclado RGB,2005,Acessórios,300.0,1,300.0,Pix,Theo Caldeira,Sul,Pendente
+27/10/2024,0769,556,Pedro Miguel Sales,Impressora Laser,2008,Eletrônicos,2000.0,1,2000.0,Pix,Alana da Paz,Nordeste,Cancelada
+12/09/2024,0770,626,Esther da Mota,Laptop ABC,2002,Eletrônicos,3500.0,1,3500.0,Dinheiro,Yuri Silva,Sul,Pendente
+19/07/2024,0771,107,Srta. Mariana da Cunha,Laptop ABC,2002,Eletrônicos,3500.0,2,7000.0,Dinheiro,Alícia Moreira,Sudeste,Concluída
+02/04/2024,0772,310,Agatha da Cruz,Monitor HD,2007,Eletrônicos,1000.0,1,1000.0,Dinheiro,Guilherme Nunes,Norte,Cancelada
+17/05/2024,0773,834,Julia Nunes,Fone Bluetooth,2006,Acessórios,250.0,1,250.0,Cartão,Catarina Silveira,Norte,Concluída
+06/01/2024,0774,282,Dra. Ana Clara Carvalho,Teclado RGB,2005,Acessórios,300.0,5,1500.0,Cartão,Esther Monteiro,Sul,Concluída
+14/05/2024,0775,364,Enzo Gabriel da Mota,Monitor HD,2007,Eletrônicos,1000.0,4,4000.0,Transferência,Juliana Almeida,Sudeste,Cancelada
+11/04/2024,0776,423,Juan Santos,Smartphone XYZ,2001,Eletrônicos,1200.0,4,4800.0,Cartão,Matheus Cardoso,Sul,Concluída
+14/07/2024,0777,756,Joaquim Correia,Laptop ABC,2002,Eletrônicos,3500.0,5,17500.0,Cartão,Eloah Teixeira,Norte,Cancelada
+11/11/2024,0778,614,Eloah Pires,Laptop ABC,2002,Eletrônicos,3500.0,3,10500.0,Pix,Maria Fernanda Rocha,Sul,Concluída
+26/10/2024,0779,388,Vitor Gabriel Mendes,Impressora Laser,2008,Eletrônicos,2000.0,4,8000.0,Transferência,Nina Ramos,Norte,Cancelada
+15/08/2024,0780,260,Lucca Correia,Smartwatch DEF,2004,Eletrônicos,800.0,2,1600.0,Transferência,Bernardo Nascimento,Sul,Cancelada
+03/09/2024,0781,749,Renan Dias,Mouse Wireless,2003,Acessórios,150.0,3,450.0,Pix,Dr. João Gabriel Silveira,Norte,Pendente
+27/07/2024,0782,995,Samuel Ferreira,Mouse Wireless,2003,Acessórios,150.0,1,150.0,Cartão,Gustavo Henrique Carvalho,Norte,Pendente
+03/06/2024,0783,710,Sofia Mendes,Monitor HD,2007,Eletrônicos,1000.0,5,5000.0,Cartão,Marcos Vinicius da Luz,Centro-Oeste,Concluída
+04/07/2024,0784,866,Dr. Enrico Fogaça,Fone Bluetooth,2006,Acessórios,250.0,2,500.0,Transferência,Vinicius da Mota,Sul,Concluída
+12/07/2024,0785,264,Srta. Eduarda Duarte,Mouse Wireless,2003,Acessórios,150.0,2,300.0,Pix,Emanuel Dias,Nordeste,Concluída
+19/03/2024,0786,285,Pedro Henrique Moraes,Smartphone XYZ,2001,Eletrônicos,1200.0,5,6000.0,Transferência,Yago Cavalcanti,Sul,Concluída
+16/02/2024,0787,397,Renan Sales,Laptop ABC,2002,Eletrônicos,3500.0,3,10500.0,Cartão,Agatha Viana,Nordeste,Pendente
+17/01/2024,0788,694,Isadora Lopes,Impressora Laser,2008,Eletrônicos,2000.0,3,6000.0,Pix,Maria Julia Freitas,Nordeste,Pendente
+09/07/2024,0789,771,Vitor Hugo Silva,Smartwatch DEF,2004,Eletrônicos,800.0,1,800.0,Pix,João Vitor das Neves,Sul,Concluída
+18/10/2024,0790,298,Ana Barros,Fone Bluetooth,2006,Acessórios,250.0,4,1000.0,Transferência,Yasmin Pereira,Centro-Oeste,Pendente
+04/07/2024,0791,775,Alícia Santos,Teclado RGB,2005,Acessórios,300.0,5,1500.0,Dinheiro,Dr. Rodrigo da Luz,Sul,Pendente
+26/06/2024,0792,473,Samuel Silveira,Fone Bluetooth,2006,Acessórios,250.0,4,1000.0,Dinheiro,Gabrielly Alves,Norte,Cancelada
+05/01/2024,0793,352,Cecília Nascimento,Smartwatch DEF,2004,Eletrônicos,800.0,4,3200.0,Pix,Ana Luiza Martins,Centro-Oeste,Concluída
+20/05/2024,0794,795,Emanuella da Mata,Fone Bluetooth,2006,Acessórios,250.0,4,1000.0,Transferência,Emanuella Duarte,Sudeste,Cancelada
+14/04/2024,0795,893,Mariana Mendes,Teclado RGB,2005,Acessórios,300.0,4,1200.0,Cartão,Sr. Luiz Felipe Pereira,Nordeste,Pendente
+22/03/2024,0796,721,Pietra Moura,Laptop ABC,2002,Eletrônicos,3500.0,3,10500.0,Dinheiro,Dr. Guilherme Porto,Sul,Concluída
+10/03/2024,0797,369,Ana Dias,Laptop ABC,2002,Eletrônicos,3500.0,1,3500.0,Cartão,Thiago Fogaça,Sul,Pendente
+08/11/2024,0798,131,Matheus Pinto,Monitor HD,2007,Eletrônicos,1000.0,5,5000.0,Dinheiro,Catarina da Conceição,Norte,Pendente
+06/11/2024,0799,366,Srta. Lorena Alves,Impressora Laser,2008,Eletrônicos,2000.0,2,4000.0,Pix,Kaique Sales,Sudeste,Concluída
+22/02/2024,0800,890,Manuela Teixeira,Teclado RGB,2005,Acessórios,300.0,2,600.0,Transferência,Sra. Valentina Rodrigues,Sul,Pendente
+26/04/2024,0801,192,Matheus Barros,Monitor HD,2007,Eletrônicos,1000.0,3,3000.0,Cartão,Ana Luiza da Cruz,Nordeste,Pendente
+24/01/2024,0802,800,Fernando Ribeiro,Mouse Wireless,2003,Acessórios,150.0,5,750.0,Dinheiro,Ana Luiza Porto,Sudeste,Concluída
+16/10/2024,0803,283,Dr. João Guilherme Moreira,Mouse Wireless,2003,Acessórios,150.0,4,600.0,Pix,Maria Eduarda Fernandes,Norte,Concluída
+13/05/2024,0804,879,Juan Costa,Impressora Laser,2008,Eletrônicos,2000.0,2,4000.0,Cartão,Sr. Murilo Teixeira,Centro-Oeste,Cancelada
+08/03/2024,0805,339,João Gabriel Martins,Smartphone XYZ,2001,Eletrônicos,1200.0,2,2400.0,Pix,Maitê Rodrigues,Sudeste,Cancelada
+27/10/2024,0806,565,Sra. Ana Júlia Nascimento,Smartphone XYZ,2001,Eletrônicos,1200.0,1,1200.0,Pix,Esther Rezende,Norte,Pendente
+02/09/2024,0807,633,Davi Luiz Mendes,Teclado RGB,2005,Acessórios,300.0,3,900.0,Dinheiro,Marina Nunes,Sudeste,Pendente
+25/11/2024,0808,487,Bruno da Cruz,Fone Bluetooth,2006,Acessórios,250.0,5,1250.0,Cartão,Sr. Ian Lopes,Sul,Cancelada
+10/09/2024,0809,485,Thales Fogaça,Smartwatch DEF,2004,Eletrônicos,800.0,5,4000.0,Transferência,Melissa Novaes,Centro-Oeste,Cancelada
+15/04/2024,0810,598,Stephany Moreira,Impressora Laser,2008,Eletrônicos,2000.0,5,10000.0,Cartão,Dra. Manuela Porto,Sul,Concluída
+09/06/2024,0811,550,Diego Aragão,Mouse Wireless,2003,Acessórios,150.0,2,300.0,Cartão,Thomas Duarte,Sul,Pendente
+14/09/2024,0812,387,Vinicius Cardoso,Smartwatch DEF,2004,Eletrônicos,800.0,2,1600.0,Dinheiro,Davi Luiz Novaes,Nordeste,Cancelada
+10/02/2024,0813,716,Bernardo Ribeiro,Laptop ABC,2002,Eletrônicos,3500.0,2,7000.0,Transferência,Ana Beatriz Araújo,Centro-Oeste,Pendente
+26/10/2024,0814,216,Marcela Cardoso,Impressora Laser,2008,Eletrônicos,2000.0,4,8000.0,Transferência,Francisco da Costa,Nordeste,Pendente
+02/02/2024,0815,265,Joana Lima,Monitor HD,2007,Eletrônicos,1000.0,1,1000.0,Dinheiro,Felipe Gomes,Norte,Concluída
+21/06/2024,0816,687,Ana Costela,Mouse Wireless,2003,Acessórios,150.0,2,300.0,Cartão,Bárbara Araújo,Sul,Concluída
+14/01/2024,0817,157,Isabella Martins,Mouse Wireless,2003,Acessórios,150.0,3,450.0,Dinheiro,Letícia Viana,Sul,Cancelada
+15/04/2024,0818,713,Laura Cunha,Smartphone XYZ,2001,Eletrônicos,1200.0,3,3600.0,Cartão,Dra. Camila Ramos,Nordeste,Cancelada
+02/09/2024,0819,721,Dra. Maria Fernanda Pinto,Impressora Laser,2008,Eletrônicos,2000.0,4,8000.0,Dinheiro,Maysa Teixeira,Nordeste,Cancelada
+30/04/2024,0820,715,Dr. Marcelo Dias,Mouse Wireless,2003,Acessórios,150.0,5,750.0,Dinheiro,Leonardo Lima,Sul,Pendente
+22/05/2024,0821,623,Emanuella da Costa,Teclado RGB,2005,Acessórios,300.0,2,600.0,Pix,André Almeida,Sudeste,Pendente
+22/07/2024,0822,704,João Felipe Gomes,Laptop ABC,2002,Eletrônicos,3500.0,2,7000.0,Transferência,Maria Alice Alves,Sudeste,Concluída
+24/09/2024,0823,211,Sophia Rocha,Smartphone XYZ,2001,Eletrônicos,1200.0,2,2400.0,Transferência,André Pinto,Nordeste,Pendente
+05/11/2024,0824,198,Noah Dias,Mouse Wireless,2003,Acessórios,150.0,4,600.0,Cartão,Marcos Vinicius Moura,Sul,Pendente
+14/03/2024,0825,870,Maria Eduarda Pinto,Laptop ABC,2002,Eletrônicos,3500.0,1,3500.0,Transferência,Elisa da Cruz,Nordeste,Pendente
+04/10/2024,0826,652,Dra. Joana Nascimento,Smartphone XYZ,2001,Eletrônicos,1200.0,4,4800.0,Transferência,Francisco Cardoso,Centro-Oeste,Concluída
+12/06/2024,0827,814,Eduarda Silveira,Monitor HD,2007,Eletrônicos,1000.0,2,2000.0,Transferência,Olivia Fogaça,Sudeste,Cancelada
+20/04/2024,0828,703,Sofia Teixeira,Laptop ABC,2002,Eletrônicos,3500.0,4,14000.0,Dinheiro,Juan da Mota,Centro-Oeste,Cancelada
+27/01/2024,0829,884,Daniel Gonçalves,Smartwatch DEF,2004,Eletrônicos,800.0,1,800.0,Pix,Pedro Miguel Ramos,Sul,Pendente
+27/08/2024,0830,518,Emanuelly Rodrigues,Teclado RGB,2005,Acessórios,300.0,2,600.0,Cartão,Igor Aragão,Norte,Pendente
+29/02/2024,0831,635,Luiz Otávio Aragão,Laptop ABC,2002,Eletrônicos,3500.0,5,17500.0,Cartão,Calebe Gomes,Sudeste,Pendente
+14/04/2024,0832,310,Theo Pires,Fone Bluetooth,2006,Acessórios,250.0,4,1000.0,Pix,Srta. Daniela Carvalho,Norte,Concluída
+28/02/2024,0833,536,Luiz Felipe da Rosa,Teclado RGB,2005,Acessórios,300.0,3,900.0,Transferência,Dr. Henrique Sales,Sul,Cancelada
+24/05/2024,0834,726,Pietra Azevedo,Teclado RGB,2005,Acessórios,300.0,4,1200.0,Dinheiro,Sr. Vitor Gabriel da Conceição,Sudeste,Pendente
+22/01/2024,0835,902,Yago Novaes,Impressora Laser,2008,Eletrônicos,2000.0,2,4000.0,Pix,Marcelo Ribeiro,Sul,Pendente
+11/03/2024,0836,595,Fernando Nascimento,Teclado RGB,2005,Acessórios,300.0,3,900.0,Pix,Cauã Farias,Sudeste,Pendente
+29/05/2024,0837,241,Elisa Azevedo,Laptop ABC,2002,Eletrônicos,3500.0,2,7000.0,Transferência,Lorenzo Castro,Nordeste,Concluída
+21/07/2024,0838,319,Cecília Ribeiro,Monitor HD,2007,Eletrônicos,1000.0,3,3000.0,Cartão,Nina Lima,Nordeste,Cancelada
+05/05/2024,0839,751,Pedro Lucas Barbosa,Smartphone XYZ,2001,Eletrônicos,1200.0,1,1200.0,Dinheiro,Dra. Manuela Costa,Sudeste,Pendente
+08/04/2024,0840,545,Maysa Jesus,Laptop ABC,2002,Eletrônicos,3500.0,1,3500.0,Pix,João Guilherme Barros,Nordeste,Cancelada
+15/09/2024,0841,181,Carlos Eduardo Duarte,Smartphone XYZ,2001,Eletrônicos,1200.0,4,4800.0,Transferência,Larissa Martins,Sul,Pendente
+06/01/2024,0842,633,Guilherme Costa,Teclado RGB,2005,Acessórios,300.0,5,1500.0,Cartão,Vitória Farias,Nordeste,Pendente
+04/01/2024,0843,606,Nathan Ribeiro,Impressora Laser,2008,Eletrônicos,2000.0,1,2000.0,Dinheiro,Dra. Brenda Moura,Sul,Cancelada
+26/10/2024,0844,299,Felipe da Cruz,Smartphone XYZ,2001,Eletrônicos,1200.0,5,6000.0,Dinheiro,Ana Laura Mendes,Sul,Concluída
+21/10/2024,0845,790,Ana Carolina Caldeira,Smartphone XYZ,2001,Eletrônicos,1200.0,3,3600.0,Dinheiro,Sr. Samuel Teixeira,Norte,Concluída
+03/11/2024,0846,188,Cauê Rodrigues,Teclado RGB,2005,Acessórios,300.0,4,1200.0,Pix,Ian Monteiro,Sudeste,Cancelada
+08/11/2024,0847,700,Sabrina da Mota,Smartwatch DEF,2004,Eletrônicos,800.0,5,4000.0,Cartão,Ryan Nascimento,Norte,Concluída
+19/05/2024,0848,662,Srta. Eloah Barbosa,Teclado RGB,2005,Acessórios,300.0,5,1500.0,Pix,Rafaela Pires,Centro-Oeste,Cancelada
+05/08/2024,0849,331,Marcelo Rodrigues,Smartwatch DEF,2004,Eletrônicos,800.0,4,3200.0,Transferência,Miguel da Mata,Sul,Concluída
+30/07/2024,0850,367,Dr. Thomas Rezende,Mouse Wireless,2003,Acessórios,150.0,4,600.0,Cartão,Noah Vieira,Sul,Concluída
+03/03/2024,0851,615,Luiz Miguel da Costa,Teclado RGB,2005,Acessórios,300.0,3,900.0,Cartão,Evelyn Ferreira,Sul,Cancelada
+29/07/2024,0852,997,Dr. Alexandre Santos,Teclado RGB,2005,Acessórios,300.0,4,1200.0,Transferência,Sabrina da Mata,Sul,Cancelada
+08/01/2024,0853,888,Isabelly Duarte,Smartwatch DEF,2004,Eletrônicos,800.0,3,2400.0,Transferência,Sr. Rafael Teixeira,Sudeste,Pendente
+14/11/2024,0854,982,Caroline Souza,Smartphone XYZ,2001,Eletrônicos,1200.0,4,4800.0,Cartão,Luna Vieira,Centro-Oeste,Concluída
+29/02/2024,0855,491,Esther Martins,Smartwatch DEF,2004,Eletrônicos,800.0,2,1600.0,Pix,Melissa Martins,Sudeste,Cancelada
+12/02/2024,0856,628,Luiz Henrique Campos,Smartphone XYZ,2001,Eletrônicos,1200.0,3,3600.0,Dinheiro,Cauê da Luz,Centro-Oeste,Concluída
+13/01/2024,0857,508,Calebe Rodrigues,Fone Bluetooth,2006,Acessórios,250.0,1,250.0,Dinheiro,Caio Azevedo,Sudeste,Cancelada
+09/08/2024,0858,462,Joana Rodrigues,Smartwatch DEF,2004,Eletrônicos,800.0,5,4000.0,Pix,Mariane Fernandes,Nordeste,Pendente
+20/01/2024,0859,799,Sr. Otávio Cardoso,Smartwatch DEF,2004,Eletrônicos,800.0,4,3200.0,Dinheiro,Emanuel Rodrigues,Nordeste,Pendente
+19/11/2024,0860,347,Lucas Gabriel Caldeira,Teclado RGB,2005,Acessórios,300.0,2,600.0,Dinheiro,Dr. João Lucas Caldeira,Nordeste,Concluída
+15/11/2024,0861,956,Emanuelly Souza,Fone Bluetooth,2006,Acessórios,250.0,2,500.0,Cartão,Thomas Cardoso,Norte,Concluída
+20/11/2024,0862,792,Breno da Rosa,Impressora Laser,2008,Eletrônicos,2000.0,5,10000.0,Cartão,Ana Luiza Castro,Sul,Concluída
+08/10/2024,0863,968,Luiz Otávio Nogueira,Impressora Laser,2008,Eletrônicos,2000.0,3,6000.0,Pix,Diogo Souza,Sudeste,Pendente
+12/09/2024,0864,989,Miguel da Luz,Teclado RGB,2005,Acessórios,300.0,4,1200.0,Dinheiro,Sofia Peixoto,Sul,Cancelada
+16/10/2024,0865,507,Vitor Moraes,Smartwatch DEF,2004,Eletrônicos,800.0,5,4000.0,Dinheiro,Laís Pereira,Norte,Pendente
+10/02/2024,0866,918,Diego Vieira,Monitor HD,2007,Eletrônicos,1000.0,4,4000.0,Cartão,Lívia Mendes,Sul,Cancelada
+12/09/2024,0867,503,Luiz Otávio Pires,Mouse Wireless,2003,Acessórios,150.0,4,600.0,Cartão,Dr. Marcos Vinicius Martins,Sul,Cancelada
+24/11/2024,0868,423,Dr. Vitor Hugo Pinto,Smartphone XYZ,2001,Eletrônicos,1200.0,1,1200.0,Dinheiro,Sra. Maria Duarte,Sudeste,Pendente
+06/08/2024,0869,203,Clara Nascimento,Fone Bluetooth,2006,Acessórios,250.0,3,750.0,Pix,Sofia Fernandes,Nordeste,Pendente
+19/05/2024,0870,369,Lavínia Novaes,Smartwatch DEF,2004,Eletrônicos,800.0,3,2400.0,Transferência,Thiago Azevedo,Sul,Cancelada
+20/04/2024,0871,474,Alexia Silveira,Mouse Wireless,2003,Acessórios,150.0,4,600.0,Transferência,Heitor Almeida,Nordeste,Cancelada
+26/04/2024,0872,817,Enrico Lopes,Fone Bluetooth,2006,Acessórios,250.0,3,750.0,Transferência,Vitor Freitas,Centro-Oeste,Cancelada
+03/08/2024,0873,284,Maria Eduarda da Costa,Mouse Wireless,2003,Acessórios,150.0,5,750.0,Dinheiro,Arthur Ramos,Norte,Pendente
+18/05/2024,0874,376,Daniel Ferreira,Smartwatch DEF,2004,Eletrônicos,800.0,5,4000.0,Transferência,Sr. Enzo Fernandes,Sudeste,Concluída
+10/11/2024,0875,249,Bryan Nunes,Mouse Wireless,2003,Acessórios,150.0,4,600.0,Cartão,Clara Cardoso,Nordeste,Cancelada
+08/10/2024,0876,611,Dr. Davi Rodrigues,Mouse Wireless,2003,Acessórios,150.0,5,750.0,Pix,Dra. Maria Julia Castro,Sudeste,Cancelada
+19/08/2024,0877,356,Fernanda Azevedo,Smartphone XYZ,2001,Eletrônicos,1200.0,4,4800.0,Cartão,Dra. Isis Cardoso,Nordeste,Concluída
+29/10/2024,0878,320,Vitor Melo,Teclado RGB,2005,Acessórios,300.0,4,1200.0,Cartão,Dr. Kaique Costa,Sudeste,Pendente
+26/10/2024,0879,442,Vinicius Alves,Teclado RGB,2005,Acessórios,300.0,3,900.0,Pix,Stephany Nascimento,Sul,Pendente
+22/01/2024,0880,929,Luiz Miguel Barbosa,Teclado RGB,2005,Acessórios,300.0,3,900.0,Cartão,Sr. Igor Santos,Sudeste,Concluída
+27/09/2024,0881,459,Davi Lucas Barros,Smartwatch DEF,2004,Eletrônicos,800.0,5,4000.0,Dinheiro,Sabrina Novaes,Centro-Oeste,Cancelada
+22/06/2024,0882,432,Maria Julia Santos,Impressora Laser,2008,Eletrônicos,2000.0,4,8000.0,Cartão,Enzo Gabriel Pinto,Sudeste,Pendente
+22/04/2024,0883,393,Bianca Costela,Impressora Laser,2008,Eletrônicos,2000.0,2,4000.0,Dinheiro,Sr. Lucas Barros,Centro-Oeste,Cancelada
+31/07/2024,0884,746,Emanuella Cardoso,Monitor HD,2007,Eletrônicos,1000.0,1,1000.0,Cartão,Lívia Pinto,Nordeste,Cancelada
+27/10/2024,0885,333,Srta. Sophie Cunha,Fone Bluetooth,2006,Acessórios,250.0,3,750.0,Pix,Maria Eduarda da Paz,Centro-Oeste,Pendente
+08/07/2024,0886,760,Milena da Paz,Monitor HD,2007,Eletrônicos,1000.0,3,3000.0,Transferência,Mariana Souza,Centro-Oeste,Pendente
+05/04/2024,0887,701,Breno Fogaça,Impressora Laser,2008,Eletrônicos,2000.0,4,8000.0,Dinheiro,Giovanna Carvalho,Nordeste,Concluída
+13/02/2024,0888,228,Júlia Pereira,Smartwatch DEF,2004,Eletrônicos,800.0,3,2400.0,Cartão,Dr. Diogo Martins,Nordeste,Concluída
+13/05/2024,0889,506,Milena Araújo,Laptop ABC,2002,Eletrônicos,3500.0,1,3500.0,Cartão,Davi Luiz Monteiro,Sudeste,Pendente
+27/08/2024,0890,155,Mariane da Conceição,Smartphone XYZ,2001,Eletrônicos,1200.0,4,4800.0,Cartão,Amanda Dias,Norte,Cancelada
+18/03/2024,0891,732,Isadora da Costa,Mouse Wireless,2003,Acessórios,150.0,1,150.0,Transferência,Srta. Ana Sophia Barros,Centro-Oeste,Concluída
+04/04/2024,0892,353,Bianca Gomes,Teclado RGB,2005,Acessórios,300.0,4,1200.0,Dinheiro,Joaquim Correia,Nordeste,Pendente
+28/04/2024,0893,958,Lorena Aragão,Mouse Wireless,2003,Acessórios,150.0,1,150.0,Cartão,Sr. Vicente Teixeira,Centro-Oeste,Cancelada
+23/03/2024,0894,984,Marcelo Silveira,Impressora Laser,2008,Eletrônicos,2000.0,4,8000.0,Pix,Marcos Vinicius Rocha,Sul,Cancelada
+29/08/2024,0895,238,Srta. Olivia Aragão,Mouse Wireless,2003,Acessórios,150.0,5,750.0,Transferência,Maria Luiza Souza,Sul,Cancelada
+17/01/2024,0896,636,Davi Luiz Caldeira,Teclado RGB,2005,Acessórios,300.0,3,900.0,Transferência,Eduardo Fogaça,Sul,Concluída
+21/01/2024,0897,924,Milena Alves,Laptop ABC,2002,Eletrônicos,3500.0,4,14000.0,Pix,João Pedro Fogaça,Centro-Oeste,Cancelada
+14/09/2024,0898,366,Isabelly Cavalcanti,Mouse Wireless,2003,Acessórios,150.0,3,450.0,Cartão,Gustavo Nogueira,Norte,Pendente
+30/03/2024,0899,934,Maitê Castro,Mouse Wireless,2003,Acessórios,150.0,3,450.0,Pix,Dr. Noah Teixeira,Sudeste,Pendente
+04/02/2024,0900,108,Eduardo Santos,Impressora Laser,2008,Eletrônicos,2000.0,4,8000.0,Pix,Maria Eduarda Aragão,Norte,Cancelada
+16/01/2024,0901,917,Luiz Miguel Lima,Teclado RGB,2005,Acessórios,300.0,5,1500.0,Dinheiro,Dr. João Vitor da Cruz,Norte,Pendente
+08/01/2024,0902,482,Dr. João Gabriel Jesus,Smartwatch DEF,2004,Eletrônicos,800.0,4,3200.0,Transferência,Luiz Fernando Freitas,Sudeste,Concluída
+11/11/2024,0903,267,Pedro Lucas Fernandes,Monitor HD,2007,Eletrônicos,1000.0,4,4000.0,Dinheiro,Alice Freitas,Centro-Oeste,Concluída
+28/03/2024,0904,532,Joaquim Novaes,Smartwatch DEF,2004,Eletrônicos,800.0,5,4000.0,Pix,Beatriz Carvalho,Centro-Oeste,Pendente
+10/10/2024,0905,860,Manuela Dias,Teclado RGB,2005,Acessórios,300.0,4,1200.0,Dinheiro,Eduarda da Costa,Norte,Concluída
+14/06/2024,0906,239,Otávio Melo,Teclado RGB,2005,Acessórios,300.0,1,300.0,Transferência,Maria Cecília Costela,Sul,Cancelada
+21/03/2024,0907,378,Beatriz Viana,Impressora Laser,2008,Eletrônicos,2000.0,2,4000.0,Pix,Yasmin da Paz,Norte,Concluída
+23/02/2024,0908,150,Ryan Souza,Smartphone XYZ,2001,Eletrônicos,1200.0,2,2400.0,Cartão,Leandro da Conceição,Centro-Oeste,Cancelada
+11/09/2024,0909,228,Bruna Lopes,Impressora Laser,2008,Eletrônicos,2000.0,1,2000.0,Dinheiro,Matheus Teixeira,Norte,Concluída
+06/10/2024,0910,115,Diego Lopes,Impressora Laser,2008,Eletrônicos,2000.0,2,4000.0,Pix,Thomas Araújo,Sudeste,Cancelada
+24/10/2024,0911,904,Dr. Juan Jesus,Impressora Laser,2008,Eletrônicos,2000.0,3,6000.0,Transferência,Sofia Freitas,Norte,Cancelada
+29/02/2024,0912,182,Calebe Costela,Mouse Wireless,2003,Acessórios,150.0,1,150.0,Pix,Antônio Fogaça,Sudeste,Concluída
+23/08/2024,0913,656,Mariana Dias,Impressora Laser,2008,Eletrônicos,2000.0,2,4000.0,Dinheiro,Daniela Dias,Centro-Oeste,Cancelada
+23/09/2024,0914,948,João Gabriel Cardoso,Smartphone XYZ,2001,Eletrônicos,1200.0,1,1200.0,Dinheiro,Sra. Beatriz Santos,Sudeste,Cancelada
+24/11/2024,0915,353,Lorena Moura,Smartphone XYZ,2001,Eletrônicos,1200.0,2,2400.0,Transferência,João Pedro Rodrigues,Norte,Pendente
+03/07/2024,0916,781,Davi Lucca da Mota,Smartwatch DEF,2004,Eletrônicos,800.0,4,3200.0,Transferência,Arthur Oliveira,Centro-Oeste,Cancelada
+23/10/2024,0917,262,Gabriel Oliveira,Smartphone XYZ,2001,Eletrônicos,1200.0,5,6000.0,Cartão,Vinicius da Paz,Centro-Oeste,Cancelada
+21/10/2024,0918,753,Bernardo da Luz,Teclado RGB,2005,Acessórios,300.0,2,600.0,Pix,Mariana Rodrigues,Norte,Pendente
+24/09/2024,0919,323,Dr. Felipe Pereira,Laptop ABC,2002,Eletrônicos,3500.0,2,7000.0,Transferência,Stephany Barbosa,Centro-Oeste,Concluída
+24/08/2024,0920,271,Sra. Rebeca Lopes,Teclado RGB,2005,Acessórios,300.0,5,1500.0,Cartão,Mariana Teixeira,Sudeste,Concluída
+22/07/2024,0921,109,Rafaela Azevedo,Smartphone XYZ,2001,Eletrônicos,1200.0,5,6000.0,Transferência,Ana Lívia Porto,Sul,Concluída
+26/06/2024,0922,480,Felipe Silveira,Laptop ABC,2002,Eletrônicos,3500.0,2,7000.0,Dinheiro,Julia Barbosa,Sudeste,Concluída
+04/08/2024,0923,802,Manuela Barros,Fone Bluetooth,2006,Acessórios,250.0,1,250.0,Cartão,Gustavo Pires,Centro-Oeste,Pendente
+03/06/2024,0924,257,Yago Gomes,Laptop ABC,2002,Eletrônicos,3500.0,2,7000.0,Transferência,Bárbara Pereira,Nordeste,Cancelada
+24/04/2024,0925,671,Ana Beatriz Silveira,Fone Bluetooth,2006,Acessórios,250.0,4,1000.0,Dinheiro,Lucas Gabriel Porto,Norte,Pendente
+05/02/2024,0926,486,Dra. Ana Sophia da Mata,Fone Bluetooth,2006,Acessórios,250.0,2,500.0,Pix,Pietra Viana,Norte,Cancelada
+22/02/2024,0927,823,Júlia Martins,Impressora Laser,2008,Eletrônicos,2000.0,5,10000.0,Pix,Alice da Luz,Sul,Pendente
+25/06/2024,0928,601,Raquel da Paz,Smartwatch DEF,2004,Eletrônicos,800.0,5,4000.0,Dinheiro,Ana Laura Fernandes,Sul,Cancelada
+05/05/2024,0929,431,Dra. Raquel da Cruz,Impressora Laser,2008,Eletrônicos,2000.0,3,6000.0,Dinheiro,Dra. Ana Vitória Carvalho,Norte,Pendente
+14/02/2024,0930,258,Sra. Maysa Moreira,Impressora Laser,2008,Eletrônicos,2000.0,3,6000.0,Pix,Luiz Miguel Nogueira,Sul,Cancelada
+09/10/2024,0931,564,Mariana da Cruz,Smartphone XYZ,2001,Eletrônicos,1200.0,5,6000.0,Transferência,Maria Clara Nascimento,Nordeste,Concluída
+18/01/2024,0932,734,Isaac da Costa,Fone Bluetooth,2006,Acessórios,250.0,5,1250.0,Dinheiro,Danilo da Luz,Centro-Oeste,Pendente
+25/10/2024,0933,164,Srta. Kamilly Lima,Monitor HD,2007,Eletrônicos,1000.0,2,2000.0,Transferência,Thomas Porto,Sul,Concluída
+22/04/2024,0934,727,Carolina Costa,Teclado RGB,2005,Acessórios,300.0,3,900.0,Transferência,Eduardo Almeida,Centro-Oeste,Concluída
+29/08/2024,0935,198,André Ramos,Laptop ABC,2002,Eletrônicos,3500.0,1,3500.0,Dinheiro,Luna Viana,Nordeste,Concluída
+09/11/2024,0936,306,Otávio Sales,Laptop ABC,2002,Eletrônicos,3500.0,4,14000.0,Dinheiro,Enrico Ribeiro,Norte,Concluída
+25/06/2024,0937,684,Laura Cardoso,Monitor HD,2007,Eletrônicos,1000.0,4,4000.0,Pix,Maria Vitória Almeida,Norte,Cancelada
+05/04/2024,0938,326,Emilly da Rocha,Laptop ABC,2002,Eletrônicos,3500.0,1,3500.0,Dinheiro,Diego da Conceição,Sudeste,Concluída
+22/01/2024,0939,579,Isabel Azevedo,Smartphone XYZ,2001,Eletrônicos,1200.0,3,3600.0,Transferência,Arthur Jesus,Centro-Oeste,Pendente
+08/05/2024,0940,159,Benjamin Cavalcanti,Teclado RGB,2005,Acessórios,300.0,5,1500.0,Cartão,Camila da Cruz,Norte,Cancelada
+18/09/2024,0941,179,Paulo da Luz,Smartwatch DEF,2004,Eletrônicos,800.0,5,4000.0,Cartão,Sofia Moreira,Norte,Pendente
+14/01/2024,0942,336,Vitor Jesus,Monitor HD,2007,Eletrônicos,1000.0,2,2000.0,Dinheiro,Dr. João Miguel Campos,Sul,Pendente
+21/10/2024,0943,354,Maria Clara Campos,Mouse Wireless,2003,Acessórios,150.0,5,750.0,Transferência,Lucas Cunha,Norte,Pendente
+17/02/2024,0944,690,Sra. Helena Souza,Fone Bluetooth,2006,Acessórios,250.0,4,1000.0,Transferência,Marcela da Rocha,Norte,Concluída
+27/09/2024,0945,911,Paulo Caldeira,Mouse Wireless,2003,Acessórios,150.0,5,750.0,Transferência,Murilo Souza,Sul,Cancelada
+04/02/2024,0946,773,Rebeca Gomes,Mouse Wireless,2003,Acessórios,150.0,5,750.0,Transferência,Maria Lopes,Centro-Oeste,Cancelada
+10/04/2024,0947,663,Maria Julia Moraes,Fone Bluetooth,2006,Acessórios,250.0,3,750.0,Transferência,Paulo Sales,Sudeste,Pendente
+20/07/2024,0948,431,Dra. Luna Sales,Smartwatch DEF,2004,Eletrônicos,800.0,5,4000.0,Dinheiro,Paulo Dias,Sudeste,Pendente
+02/10/2024,0949,862,Diogo Almeida,Teclado RGB,2005,Acessórios,300.0,3,900.0,Transferência,Antônio Rezende,Sudeste,Cancelada
+30/08/2024,0950,100,Vicente da Rocha,Smartphone XYZ,2001,Eletrônicos,1200.0,3,3600.0,Cartão,Kamilly Oliveira,Sul,Concluída
+18/01/2024,0951,409,Dr. Matheus da Rosa,Smartphone XYZ,2001,Eletrônicos,1200.0,3,3600.0,Dinheiro,Pedro Miguel da Paz,Nordeste,Cancelada
+24/09/2024,0952,122,Fernando Campos,Teclado RGB,2005,Acessórios,300.0,5,1500.0,Dinheiro,Heitor Santos,Norte,Concluída
+01/08/2024,0953,571,Sr. Carlos Eduardo Melo,Fone Bluetooth,2006,Acessórios,250.0,2,500.0,Dinheiro,Dr. Thiago Araújo,Centro-Oeste,Cancelada
+19/11/2024,0954,696,Diogo Melo,Smartwatch DEF,2004,Eletrônicos,800.0,2,1600.0,Pix,Dr. Lucas Azevedo,Centro-Oeste,Concluída
+07/09/2024,0955,684,Lucca da Costa,Monitor HD,2007,Eletrônicos,1000.0,5,5000.0,Dinheiro,Laís Teixeira,Norte,Pendente
+10/05/2024,0956,432,Valentina Oliveira,Impressora Laser,2008,Eletrônicos,2000.0,2,4000.0,Transferência,Srta. Manuela Jesus,Sul,Concluída
+07/08/2024,0957,709,Dra. Gabrielly Teixeira,Teclado RGB,2005,Acessórios,300.0,1,300.0,Transferência,Emanuel Melo,Norte,Concluída
+06/11/2024,0958,889,Sr. Davi Lucas Freitas,Fone Bluetooth,2006,Acessórios,250.0,3,750.0,Transferência,Joaquim Nascimento,Sudeste,Concluída
+31/08/2024,0959,990,Bárbara Nogueira,Smartwatch DEF,2004,Eletrônicos,800.0,5,4000.0,Cartão,Noah Correia,Sudeste,Concluída
+30/10/2024,0960,412,Thales Lopes,Smartphone XYZ,2001,Eletrônicos,1200.0,3,3600.0,Dinheiro,Srta. Emanuelly Oliveira,Centro-Oeste,Pendente
+03/02/2024,0961,814,Eduarda Moura,Smartwatch DEF,2004,Eletrônicos,800.0,2,1600.0,Cartão,Fernanda da Rosa,Sudeste,Cancelada
+22/07/2024,0962,870,Davi Correia,Laptop ABC,2002,Eletrônicos,3500.0,2,7000.0,Transferência,Sr. Yago da Paz,Centro-Oeste,Cancelada
+05/02/2024,0963,251,Lívia Araújo,Mouse Wireless,2003,Acessórios,150.0,3,450.0,Cartão,Lívia da Costa,Sudeste,Pendente
+14/03/2024,0964,863,Dr. Thomas Souza,Smartphone XYZ,2001,Eletrônicos,1200.0,5,6000.0,Transferência,Yago Martins,Centro-Oeste,Concluída
+25/02/2024,0965,508,Luiz Henrique Costela,Monitor HD,2007,Eletrônicos,1000.0,2,2000.0,Dinheiro,Thiago Azevedo,Sudeste,Pendente
+27/06/2024,0966,302,Raquel Silveira,Impressora Laser,2008,Eletrônicos,2000.0,4,8000.0,Dinheiro,Alexandre Lima,Sul,Pendente
+18/01/2024,0967,853,Maria Vitória Carvalho,Smartwatch DEF,2004,Eletrônicos,800.0,2,1600.0,Cartão,Dr. Augusto Cavalcanti,Centro-Oeste,Cancelada
+21/07/2024,0968,431,Sofia Lima,Laptop ABC,2002,Eletrônicos,3500.0,1,3500.0,Transferência,Murilo Lima,Sudeste,Cancelada
+05/09/2024,0969,456,Igor da Paz,Smartwatch DEF,2004,Eletrônicos,800.0,3,2400.0,Pix,Gustavo Henrique Freitas,Sul,Pendente
+25/07/2024,0970,124,Dr. Raul Costa,Teclado RGB,2005,Acessórios,300.0,2,600.0,Pix,Davi Lucas da Cruz,Sul,Cancelada
+16/04/2024,0971,738,André Silva,Mouse Wireless,2003,Acessórios,150.0,4,600.0,Cartão,Emanuel Viana,Nordeste,Concluída
+16/05/2024,0972,801,Gabrielly Fogaça,Fone Bluetooth,2006,Acessórios,250.0,2,500.0,Cartão,Thales Gomes,Norte,Pendente
+10/08/2024,0973,155,Davi Luiz Cardoso,Smartwatch DEF,2004,Eletrônicos,800.0,5,4000.0,Dinheiro,Paulo Mendes,Centro-Oeste,Concluída
+28/07/2024,0974,451,Ana Beatriz Costela,Laptop ABC,2002,Eletrônicos,3500.0,3,10500.0,Transferência,Lucas Barros,Sudeste,Concluída
+11/02/2024,0975,439,Ana Beatriz Carvalho,Smartwatch DEF,2004,Eletrônicos,800.0,5,4000.0,Dinheiro,Julia da Luz,Nordeste,Pendente
+30/09/2024,0976,635,Maria Sophia Porto,Teclado RGB,2005,Acessórios,300.0,5,1500.0,Transferência,Isabella Lima,Sul,Pendente
+09/05/2024,0977,244,Theo Teixeira,Smartphone XYZ,2001,Eletrônicos,1200.0,4,4800.0,Cartão,Vitor Gabriel Rezende,Centro-Oeste,Concluída
+08/08/2024,0978,161,Bryan Rezende,Teclado RGB,2005,Acessórios,300.0,2,600.0,Pix,Lorenzo Lima,Norte,Cancelada
+22/09/2024,0979,770,Rafaela Rezende,Smartphone XYZ,2001,Eletrônicos,1200.0,1,1200.0,Transferência,Daniela das Neves,Centro-Oeste,Pendente
+25/02/2024,0980,972,Emanuella Moreira,Fone Bluetooth,2006,Acessórios,250.0,1,250.0,Cartão,Carolina Melo,Centro-Oeste,Pendente
+02/11/2024,0981,495,Dr. Luigi Araújo,Smartwatch DEF,2004,Eletrônicos,800.0,4,3200.0,Cartão,Lucas Correia,Centro-Oeste,Cancelada
+16/05/2024,0982,987,Letícia da Cunha,Laptop ABC,2002,Eletrônicos,3500.0,2,7000.0,Dinheiro,Vitor Monteiro,Sul,Cancelada
+22/08/2024,0983,674,Ana Silva,Smartphone XYZ,2001,Eletrônicos,1200.0,1,1200.0,Dinheiro,João Cavalcanti,Sul,Cancelada
+06/05/2024,0984,441,Milena Cardoso,Impressora Laser,2008,Eletrônicos,2000.0,4,8000.0,Dinheiro,Luiz Otávio Rezende,Norte,Cancelada
+04/06/2024,0985,800,Júlia Duarte,Fone Bluetooth,2006,Acessórios,250.0,3,750.0,Pix,Elisa Vieira,Nordeste,Pendente
+02/03/2024,0986,382,Joana Campos,Smartphone XYZ,2001,Eletrônicos,1200.0,3,3600.0,Transferência,Sr. Ryan Pinto,Norte,Pendente
+31/10/2024,0987,386,Maria Fernanda Mendes,Smartwatch DEF,2004,Eletrônicos,800.0,2,1600.0,Pix,Olivia Duarte,Sudeste,Pendente
+08/03/2024,0988,240,Natália Cardoso,Laptop ABC,2002,Eletrônicos,3500.0,4,14000.0,Dinheiro,Dra. Maria Julia Rodrigues,Sudeste,Concluída
+14/02/2024,0989,686,Maria Vitória Rezende,Mouse Wireless,2003,Acessórios,150.0,4,600.0,Pix,Sr. Leonardo da Luz,Sul,Cancelada
+29/04/2024,0990,559,Ana Clara Cavalcanti,Mouse Wireless,2003,Acessórios,150.0,2,300.0,Dinheiro,Maria Vitória Nascimento,Sul,Pendente
+07/05/2024,0991,800,Melissa Caldeira,Smartwatch DEF,2004,Eletrônicos,800.0,2,1600.0,Pix,Enrico Cunha,Sul,Concluída
+13/08/2024,0992,540,Agatha da Conceição,Mouse Wireless,2003,Acessórios,150.0,5,750.0,Dinheiro,Brenda Porto,Centro-Oeste,Concluída
+25/07/2024,0993,670,João Pedro Porto,Laptop ABC,2002,Eletrônicos,3500.0,2,7000.0,Pix,Emanuel Lopes,Nordeste,Pendente
+26/04/2024,0994,130,Vitória Jesus,Fone Bluetooth,2006,Acessórios,250.0,4,1000.0,Transferência,Raquel Monteiro,Centro-Oeste,Cancelada
+04/02/2024,0995,863,Alana Silva,Teclado RGB,2005,Acessórios,300.0,2,600.0,Dinheiro,Ana Gonçalves,Norte,Concluída
+25/01/2024,0996,289,Sr. Alexandre Moraes,Smartphone XYZ,2001,Eletrônicos,1200.0,5,6000.0,Pix,Gustavo Henrique Araújo,Sul,Pendente
+01/04/2024,0997,727,Pietra Novaes,Smartwatch DEF,2004,Eletrônicos,800.0,5,4000.0,Dinheiro,Gabrielly Nascimento,Nordeste,Pendente
+06/06/2024,0998,126,Larissa Viana,Fone Bluetooth,2006,Acessórios,250.0,1,250.0,Transferência,Rafael da Luz,Nordeste,Pendente
+03/07/2024,0999,966,Diogo Nogueira,Impressora Laser,2008,Eletrônicos,2000.0,3,6000.0,Dinheiro,Dr. Davi Lucas Gomes,Sudeste,Cancelada
+17/09/2024,1000,585,Daniel Alves,Mouse Wireless,2003,Acessórios,150.0,2,300.0,Dinheiro,Pedro Aragão,Nordeste,Concluída
